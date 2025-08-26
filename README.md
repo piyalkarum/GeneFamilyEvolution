@@ -88,10 +88,10 @@ This repository is structured around the main analyses described in the paper:
 
 If you use the scripts or data in this repository, please cite the associated publication:
 
-> Karunarathne P., et al. (2025). *Copy number variation drives gene family evolution and ecological adaptation in Brassicaceae.*  
+> Karunarathne P., et al. (2025). *Copy Number Variation: A Substrate for Plant Adaptation and Stress Response in Arabidopsis.*  
 > [Journal, Volume, Pages, DOI — to be added upon publication]
 
 - preprint
->Piyal Karunarathne, Yannick Schäfer, Anna Glushkevich, Alison D. Scott, Leen Abraham, Juliette de Meaux, Polina Yu Novikova, Thomas Wiehe, Laura E. Rose (2025) *Copy number variation drives gene family evolution and ecological adaptation in Brassicaceae.*
+>Piyal Karunarathne, Yannick Schäfer, Anna Glushkevich, Alison D. Scott, Leen Abraham, Juliette de Meaux, Polina Yu Novikova, Thomas Wiehe, Laura E. Rose (2025) *Copy Number Variation: A Substrate for Plant Adaptation and Stress Response in Arabidopsis.*
 bioRxiv 2025.08.15.670553; doi: <https://doi.org/10.1101/2025.08.15.670553>
 ---

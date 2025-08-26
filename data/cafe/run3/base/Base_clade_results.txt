@@ -1,0 +1,9 @@
+#Taxon_ID	Increase	Decrease
+Ahalleri<1>	1348	2702
+<6>	1655	901
+<5>	2275	371
+Alyrata<0>	2356	1233
+Athaliana<2>	1173	1776
+Cpapaya<7>	2852	8868
+Aalpina<4>	1549	7934
+<3>	605	188

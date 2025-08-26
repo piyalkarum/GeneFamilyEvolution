@@ -1,0 +1,54 @@
+# BLASTN 2.12.0+
+# Query: AL1G59830
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 5 hits found
+AL1G59830	scaffold_1_RagTag	93.172	2680	98	27	1	2633	29586152	29588793	0.0	3856	N/A
+AL1G59830	scaffold_1_RagTag	90.865	2704	112	33	1	2630	29624474	29627116	0.0	3500	N/A
+AL1G59830	scaffold_1_RagTag	88.603	1790	100	35	1	1736	29561379	29563118	0.0	2080	N/A
+AL1G59830	scaffold_1_RagTag	93.372	513	23	6	2122	2630	29564876	29565381	0.0	749	N/A
+AL1G59830	scaffold_1_RagTag	90.591	372	22	8	1727	2087	29563798	29564167	7.45e-134	481	N/A
+# BLASTN 2.12.0+
+# Query: AL1G59840
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 10 hits found
+AL1G59840	scaffold_1_RagTag	97.239	1159	11	3	1	1139	29629898	29631055	0.0	1943	N/A
+AL1G59840	scaffold_1_RagTag	94.390	820	24	4	550	1348	29582675	29583493	0.0	1240	N/A
+AL1G59840	scaffold_1_RagTag	95.660	553	11	5	1	547	29582099	29582644	0.0	876	N/A
+AL1G59840	scaffold_1_RagTag	98.611	216	3	0	1132	1347	29631373	29631588	1.10e-104	383	N/A
+AL1G59840	scaffold_1_RagTag	89.796	49	5	0	829	877	29582909	29582957	1.62e-08	63.9	N/A
+AL1G59840	scaffold_1_RagTag	89.796	49	5	0	829	877	29630685	29630733	1.62e-08	63.9	N/A
+AL1G59840	scaffold_1_RagTag	94.286	35	2	0	783	817	29582969	29583003	9.75e-06	54.7	N/A
+AL1G59840	scaffold_1_RagTag	94.286	35	2	0	783	817	29630745	29630779	9.75e-06	54.7	N/A
+AL1G59840	scaffold_6_RagTag	80.769	104	18	1	1243	1344	23819719	23819616	1.61e-13	80.5	N/A
+AL1G59840	scaffold_6_RagTag	79.630	108	20	1	1243	1348	23469940	23470047	2.08e-12	76.8	N/A
+# BLASTN 2.12.0+
+# Query: AL6G45960
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL6G45960	scaffold_6_RagTag	93.161	658	31	7	1	646	23469416	23470071	0.0	953	N/A
+AL6G45960	scaffold_6_RagTag	87.943	141	14	2	506	643	23819728	23819588	7.28e-39	163	N/A
+AL6G45960	scaffold_1_RagTag	82.883	111	17	1	515	625	29631484	29631592	2.08e-19	99.0	N/A
+# BLASTN 2.12.0+
+# Query: AL6G46350
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL6G46350	scaffold_6_RagTag	95.972	1142	4	5	1	1109	23819558	23820690	0.0	1816	N/A
+AL6G46350	scaffold_6_RagTag	88.710	124	11	3	55	175	23470054	23469931	3.56e-34	148	N/A
+AL6G46350	scaffold_1_RagTag	81.250	112	19	1	55	166	29631593	29631484	2.19e-16	89.8	N/A
+# BLASTN 2.12.0+
+# Query: AL6G46470
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 1 hits found
+AL6G46470	scaffold_6_RagTag	98.453	1293	12	5	1	1292	23911815	23913100	0.0	2270	N/A
+# BLASTN 2.12.0+
+# Query: AL8G22560
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 1 hits found
+AL8G22560	scaffold_6_RagTag	99.254	268	2	0	1	268	23912885	23912618	5.37e-136	484	N/A
+# BLAST processed 6 queries

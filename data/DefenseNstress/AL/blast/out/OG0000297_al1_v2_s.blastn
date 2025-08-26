@@ -1,0 +1,37 @@
+# BLASTN 2.12.0+
+# Query: AL7G34270
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/al1_v2_s.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 9 hits found
+AL7G34270	scaffold_7_RagTag	97.550	1592	19	5	1680	3251	9873922	9872331	0.0	2706	N/A
+AL7G34270	scaffold_7_RagTag	98.016	1260	20	4	1	1258	9875568	9874312	0.0	2183	N/A
+AL7G34270	scaffold_7_RagTag	88.410	673	45	17	16	659	9880302	9879634	0.0	780	N/A
+AL7G34270	scaffold_7_RagTag	99.077	325	3	0	1264	1588	9874268	9873944	6.86e-165	584	N/A
+AL7G34270	scaffold_7_RagTag	78.076	707	106	29	2562	3249	9869280	9868604	7.41e-110	401	N/A
+AL7G34270	scaffold_7_RagTag	91.489	282	23	1	1284	1565	9879530	9879250	2.08e-105	387	N/A
+AL7G34270	scaffold_7_RagTag	74.638	414	87	14	2562	2964	9857155	9856749	2.94e-39	167	N/A
+AL7G34270	scaffold_7_RagTag	93.814	97	6	0	1149	1245	9879630	9879534	3.84e-33	147	N/A
+AL7G34270	scaffold_7_RagTag	100.000	43	0	0	1441	1483	9874311	9874269	3.95e-13	80.5	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34280
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/al1_v2_s.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL7G34280	scaffold_7_RagTag	99.261	812	5	1	1	812	9870864	9870054	0.0	1465	N/A
+AL7G34280	scaffold_7_RagTag	98.128	748	5	5	955	1696	9869346	9868602	0.0	1295	N/A
+AL7G34280	scaffold_7_RagTag	80.446	762	131	16	56	807	9873825	9873072	1.26e-159	566	N/A
+AL7G34280	scaffold_7_RagTag	78.218	707	110	27	1018	1694	9873025	9872333	1.74e-113	412	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34290
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/al1_v2_s.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL7G34290	scaffold_7_RagTag	98.639	1617	15	6	1	1612	9858290	9856676	0.0	2857	N/A
+AL7G34290	scaffold_7_RagTag	99.157	356	2	1	2010	2365	9856683	9856329	0.0	640	N/A
+AL7G34290	scaffold_7_RagTag	75.061	409	90	10	1138	1540	9873025	9872623	2.70e-43	180	N/A
+AL7G34290	scaffold_4_RagTag	94.189	413	12	3	1609	2009	17494357	17494769	1.34e-175	619	N/A
+AL7G34290	scaffold_8_RagTag	97.554	327	6	2	1686	2010	22346727	22346401	2.96e-157	558	N/A
+AL7G34290	scaffold_8_RagTag	96.512	86	3	0	1613	1698	22346824	22346739	3.54e-32	143	N/A
+AL7G34290	scaffold_2_RagTag	96.308	325	10	2	1686	2009	20878960	20878637	1.80e-149	532	N/A
+AL7G34290	scaffold_2_RagTag	93.506	77	5	0	1609	1685	20879063	20878987	7.71e-24	115	N/A
+# BLAST processed 3 queries

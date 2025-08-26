@@ -1,0 +1,31 @@
+# BLASTN 2.12.0+
+# Query: AL7G34270
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL7G34270	scaffold_7_RagTag	96.591	2875	54	15	195	3061	9928798	9931636	0.0	4726	N/A
+AL7G34270	scaffold_7_RagTag	87.649	672	51	18	16	658	9923193	9923861	0.0	752	N/A
+AL7G34270	scaffold_7_RagTag	91.505	412	33	2	1145	1556	9923862	9924271	2.35e-159	566	N/A
+AL7G34270	scaffold_7_RagTag	77.511	707	111	28	2562	3249	9934062	9934739	9.12e-104	381	N/A
+AL7G34270	scaffold_7_RagTag	99.510	204	1	0	1	204	9928213	9928416	5.49e-101	372	N/A
+AL7G34270	scaffold_7_RagTag	74.879	414	86	14	2562	2964	9944389	9944795	5.97e-41	172	N/A
+AL7G34270	scaffold_7_RagTag	98.750	80	1	0	3227	3306	9931634	9931713	4.68e-32	143	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34280
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 2 hits found
+AL7G34280	scaffold_7_RagTag	98.940	1698	14	3	1	1696	9933046	9934741	0.0	3033	N/A
+AL7G34280	scaffold_7_RagTag	81.841	402	65	5	1018	1417	9931137	9931532	4.74e-89	331	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34290
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL7G34290	scaffold_7_RagTag	99.684	1583	4	1	1	1582	9943252	9944834	0.0	2894	N/A
+AL7G34290	scaffold_7_RagTag	98.392	684	5	5	1687	2365	9944844	9945526	0.0	1197	N/A
+AL7G34290	scaffold_7_RagTag	90.250	400	29	5	1613	2004	22798097	22797700	6.14e-144	514	N/A
+AL7G34290	scaffold_7_RagTag	86.650	412	37	6	1613	2009	24251280	24251688	1.06e-121	440	N/A
+AL7G34290	scaffold_7_RagTag	74.328	409	88	13	1138	1540	9931137	9931534	1.19e-36	158	N/A
+AL7G34290	scaffold_1_RagTag	87.651	413	33	8	1613	2013	15542729	15542323	6.28e-129	464	N/A
+# BLAST processed 3 queries

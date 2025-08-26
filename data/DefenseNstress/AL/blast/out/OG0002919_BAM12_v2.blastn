@@ -1,0 +1,40 @@
+# BLASTN 2.12.0+
+# Query: AL1G35130
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BAM12_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 1 hits found
+AL1G35130	scaffold_1_RagTag	99.394	330	2	0	1	330	10181033	10181362	2.26e-170	599	N/A
+# BLASTN 2.12.0+
+# Query: AL1G35140
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BAM12_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL1G35140	scaffold_1_RagTag	96.646	328	11	0	1	328	10185482	10185809	2.97e-154	545	N/A
+AL1G35140	scaffold_1_RagTag	96.341	328	12	0	1	328	10182897	10183224	1.38e-152	540	N/A
+AL1G35140	scaffold_8_RagTag	94.817	328	17	0	1	328	15978874	15979201	3.01e-144	512	N/A
+# BLASTN 2.12.0+
+# Query: AL1G35260
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BAM12_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL1G35260	scaffold_8_RagTag	95.732	328	14	0	1	328	15978874	15979201	2.99e-149	529	N/A
+AL1G35260	scaffold_1_RagTag	95.732	328	14	0	1	328	10185482	10185809	2.99e-149	529	N/A
+AL1G35260	scaffold_1_RagTag	95.427	328	15	0	1	328	10182897	10183224	1.39e-147	523	N/A
+# BLASTN 2.12.0+
+# Query: AL1G35270
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BAM12_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL1G35270	scaffold_1_RagTag	92.607	257	11	6	1	254	10181042	10181293	3.15e-99	363	N/A
+AL1G35270	scaffold_1_RagTag	87.907	215	17	7	111	322	10185601	10185809	1.19e-63	244	N/A
+AL1G35270	scaffold_1_RagTag	90.395	177	14	1	146	322	10183051	10183224	3.33e-59	230	N/A
+AL1G35270	scaffold_8_RagTag	86.700	203	18	7	111	310	15978993	15979189	2.59e-55	217	N/A
+# BLASTN 2.12.0+
+# Query: AL1G35280
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BAM12_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL1G35280	scaffold_1_RagTag	97.866	328	7	0	1	328	10185482	10185809	6.34e-161	568	N/A
+AL1G35280	scaffold_1_RagTag	95.122	328	16	0	1	328	10182897	10183224	6.48e-146	518	N/A
+AL1G35280	scaffold_8_RagTag	96.037	328	13	0	1	328	15978874	15979201	6.43e-151	534	N/A
+# BLAST processed 5 queries

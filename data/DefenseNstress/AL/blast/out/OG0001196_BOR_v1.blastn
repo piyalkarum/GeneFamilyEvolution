@@ -1,0 +1,20 @@
+# BLASTN 2.12.0+
+# Query: AL4G42570
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL4G42570	scaffold_4_RagTag:18000-22695972	90.127	395	37	1	394	786	20542521	20542915	6.94e-144	512	N/A
+AL4G42570	scaffold_4_RagTag:18000-22695972	90.306	392	27	8	1	391	20542167	20542548	4.18e-141	503	N/A
+AL4G42570	scaffold_4_RagTag:18000-22695972	75.263	190	36	7	184	363	20560988	20561176	8.35e-14	80.5	N/A
+# BLASTN 2.12.0+
+# Query: AL4G42610
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL4G42610	scaffold_4_RagTag:18000-22695972	97.324	598	11	1	35	632	20564462	20565054	0.0	1011	N/A
+AL4G42610	scaffold_4_RagTag:18000-22695972	78.392	597	90	28	42	626	20559053	20559622	1.28e-95	351	N/A
+AL4G42610	scaffold_4_RagTag:18000-22695972	76.923	624	103	27	40	632	11423978	11423365	4.67e-85	316	N/A
+AL4G42610	scaffold_4_RagTag:18000-22695972	95.000	40	2	0	87	126	20561036	20561075	6.71e-09	63.9	N/A
+AL4G42610	scaffold_7_RagTag:0-26551907	100.000	32	0	0	3	34	12632538	12632507	8.68e-08	60.2	N/A
+AL4G42610	scaffold_8_RagTag:0-21093757	100.000	30	0	0	3	32	11291940	11291911	1.12e-06	56.5	N/A
+# BLAST processed 2 queries

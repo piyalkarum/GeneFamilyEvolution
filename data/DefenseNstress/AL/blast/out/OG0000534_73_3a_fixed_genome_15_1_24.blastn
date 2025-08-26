@@ -1,0 +1,12 @@
+# BLASTN 2.12.0+
+# Query: AL2G35840
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/73_3a_fixed_genome_15_1_24.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL2G35840	scaffold_3_RagTag	96.814	565	5	3	1	559	23877911	23878468	0.0	931	N/A
+AL2G35840	scaffold_2_RagTag	96.814	565	5	3	1	559	18785753	18786310	0.0	931	N/A
+AL2G35840	scaffold_8_RagTag	83.651	367	41	17	53	411	2812696	2813051	2.03e-88	327	N/A
+AL2G35840	scaffold_8_RagTag	80.423	378	52	17	41	411	2827470	2827832	1.25e-70	268	N/A
+AL2G35840	scaffold_8_RagTag	80.168	358	63	6	59	416	2799538	2799887	2.09e-68	261	N/A
+AL2G35840	scaffold_7_RagTag	78.191	376	51	21	53	410	20270825	20270463	2.14e-53	211	N/A
+# BLAST processed 1 queries

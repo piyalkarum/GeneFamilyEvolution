@@ -1,0 +1,174 @@
+# BLASTN 2.12.0+
+# Query: AL1G17600
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 1 hits found
+AL1G17600	scaffold_1_RagTag	94.541	1557	23	8	38	1570	3275347	3276865	0.0	2348	N/A
+# BLASTN 2.12.0+
+# Query: AL41U10050
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL41U10050	scaffold_4_RagTag	86.618	1091	99	25	465	1535	13686338	13687401	0.0	1162	N/A
+AL41U10050	scaffold_4_RagTag	80.154	1038	125	42	480	1476	13790693	13789696	0.0	701	N/A
+AL41U10050	scaffold_4_RagTag	80.355	957	105	52	501	1441	13691422	13692311	0.0	649	N/A
+AL41U10050	scaffold_4_RagTag	76.923	1014	168	44	503	1479	13792838	13791854	1.16e-144	516	N/A
+AL41U10050	scaffold_4_RagTag	79.551	758	101	39	483	1213	13775618	13774888	1.96e-137	492	N/A
+AL41U10050	scaffold_4_RagTag	92.672	232	17	0	981	1212	13749456	13749225	3.50e-90	335	N/A
+AL41U10050	scaffold_4_RagTag	86.813	273	24	5	102	374	13686039	13686299	5.93e-78	294	N/A
+AL41U10050	scaffold_4_RagTag	94.853	136	6	1	200	334	13691212	13691347	6.15e-53	211	N/A
+# BLASTN 2.12.0+
+# Query: AL41U10060
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 48 hits found
+AL41U10060	scaffold_4_RagTag	92.119	571	15	13	1012	1569	13691757	13692310	0.0	778	N/A
+AL41U10060	scaffold_4_RagTag	81.607	560	67	22	1094	1622	13686808	13687362	8.22e-119	431	N/A
+AL41U10060	scaffold_4_RagTag	97.222	216	5	1	197	411	13691212	13691427	8.46e-99	364	N/A
+AL41U10060	scaffold_4_RagTag	82.250	400	52	16	162	561	13686091	13686471	1.11e-87	327	N/A
+AL41U10060	scaffold_4_RagTag	92.342	222	17	0	1153	1374	13775109	13774888	2.40e-84	316	N/A
+AL41U10060	scaffold_4_RagTag	91.480	223	19	0	1153	1375	13792359	13792137	1.45e-81	307	N/A
+AL41U10060	scaffold_4_RagTag	94.527	201	3	4	464	660	13691422	13691618	1.87e-80	303	N/A
+AL41U10060	scaffold_4_RagTag	90.045	221	22	0	1153	1373	13749445	13749225	1.88e-75	287	N/A
+AL41U10060	scaffold_4_RagTag	89.732	224	23	0	1153	1376	13790198	13789975	1.88e-75	287	N/A
+AL41U10060	scaffold_4_RagTag	93.407	91	3	1	1	91	13691102	13691189	9.34e-29	132	N/A
+AL41U10060	scaffold_4_RagTag	92.308	52	4	0	1658	1709	16085777	16085726	1.60e-11	75.0	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	714236	714276	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	720320	720360	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	723354	723394	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	729424	729464	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	735508	735548	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	95.122	41	2	0	1658	1698	738542	738582	9.61e-09	65.8	N/A
+AL41U10060	scaffold_4_RagTag	88.462	52	6	0	1658	1709	15175918	15175969	3.46e-08	63.9	N/A
+AL41U10060	scaffold_4_RagTag	87.755	49	6	0	1658	1706	3539762	3539714	1.61e-06	58.4	N/A
+AL41U10060	scaffold_4_RagTag	87.755	49	6	0	1658	1706	24166089	24166137	1.61e-06	58.4	N/A
+AL41U10060	scaffold_8_RagTag	86.517	89	8	4	1658	1743	24177142	24177229	1.23e-17	95.3	N/A
+AL41U10060	scaffold_8_RagTag	90.385	52	5	0	1658	1709	13204355	13204406	7.43e-10	69.4	N/A
+AL41U10060	scaffold_8_RagTag	95.000	40	0	2	1656	1694	24177105	24177143	1.24e-07	62.1	N/A
+AL41U10060	scaffold_8_RagTag	100.000	32	0	0	1656	1687	3996218	3996187	4.47e-07	60.2	N/A
+AL41U10060	scaffold_8_RagTag	90.698	43	3	1	1658	1699	12337799	12337757	5.78e-06	56.5	N/A
+AL41U10060	scaffold_7_RagTag	88.235	68	6	2	1658	1724	20892588	20892522	3.43e-13	80.5	N/A
+AL41U10060	scaffold_7_RagTag	92.000	50	4	0	1658	1707	15526820	15526869	2.07e-10	71.3	N/A
+AL41U10060	scaffold_7_RagTag	79.279	111	15	7	1657	1761	24853881	24853989	2.07e-10	71.3	N/A
+AL41U10060	scaffold_7_RagTag	82.895	76	12	1	1658	1732	17603850	17603775	2.67e-09	67.6	N/A
+AL41U10060	scaffold_6_RagTag	92.308	52	4	0	1658	1709	18351510	18351459	1.60e-11	75.0	N/A
+AL41U10060	scaffold_6_RagTag	90.385	52	5	0	1658	1709	19989948	19989999	7.43e-10	69.4	N/A
+AL41U10060	scaffold_6_RagTag	90.385	52	5	0	1658	1709	20838593	20838542	7.43e-10	69.4	N/A
+AL41U10060	scaffold_6_RagTag	83.333	78	7	5	1658	1731	18866597	18866522	2.67e-09	67.6	N/A
+AL41U10060	scaffold_3_RagTag	86.765	68	7	2	1658	1724	22692499	22692433	1.60e-11	75.0	N/A
+AL41U10060	scaffold_3_RagTag	95.349	43	2	0	1656	1698	24622472	24622514	7.43e-10	69.4	N/A
+AL41U10060	scaffold_3_RagTag	82.500	80	8	6	1658	1733	21218618	21218541	9.61e-09	65.8	N/A
+AL41U10060	scaffold_3_RagTag	95.122	41	2	0	1658	1698	24622270	24622310	9.61e-09	65.8	N/A
+AL41U10060	scaffold_3_RagTag	86.538	52	7	0	1658	1709	21058551	21058500	1.61e-06	58.4	N/A
+AL41U10060	scaffold_3_RagTag	90.698	43	3	1	1658	1699	23723072	23723030	5.78e-06	56.5	N/A
+AL41U10060	scaffold_5_RagTag	90.385	52	5	0	1658	1709	3261269	3261320	7.43e-10	69.4	N/A
+AL41U10060	scaffold_5_RagTag	95.122	41	2	0	1658	1698	13034072	13034032	9.61e-09	65.8	N/A
+AL41U10060	scaffold_1_RagTag	85.294	68	8	2	1658	1724	15831148	15831082	7.43e-10	69.4	N/A
+AL41U10060	scaffold_1_RagTag	90.385	52	5	0	1658	1709	30551595	30551544	7.43e-10	69.4	N/A
+AL41U10060	scaffold_1_RagTag	82.895	76	12	1	1658	1732	31417297	31417372	2.67e-09	67.6	N/A
+AL41U10060	scaffold_1_RagTag	97.143	35	1	0	1658	1692	18886603	18886637	4.47e-07	60.2	N/A
+AL41U10060	scaffold_1_RagTag	80.000	80	14	2	1658	1735	13364931	13365010	1.61e-06	58.4	N/A
+AL41U10060	scaffold_1_RagTag	79.487	78	14	2	1658	1733	13364855	13364932	2.08e-05	54.7	N/A
+AL41U10060	scaffold_2_RagTag	80.000	80	14	2	1658	1735	341247	341168	1.61e-06	58.4	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23710
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL4G23710	scaffold_4_RagTag	98.183	1486	8	5	1	1469	13685882	13687365	0.0	2577	N/A
+AL4G23710	scaffold_4_RagTag	79.380	1290	184	51	210	1449	13790953	13789696	0.0	833	N/A
+AL4G23710	scaffold_4_RagTag	78.692	948	131	43	486	1413	13691414	13692310	1.09e-159	566	N/A
+AL4G23710	scaffold_4_RagTag	77.637	1024	166	44	210	1200	13775881	13774888	3.92e-159	564	N/A
+AL4G23710	scaffold_4_RagTag	84.387	506	47	17	979	1452	13792359	13791854	3.16e-130	468	N/A
+AL4G23710	scaffold_4_RagTag	89.879	247	20	4	964	1210	13749456	13749215	1.57e-83	313	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23730
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL4G23730	scaffold_4_RagTag	98.939	1037	10	1	263	1298	13691274	13692310	0.0	1853	N/A
+AL4G23730	scaffold_4_RagTag	79.035	1016	134	44	403	1355	13686367	13687366	5.90e-177	623	N/A
+AL4G23730	scaffold_4_RagTag	92.478	226	14	2	875	1100	13792359	13792137	8.67e-86	320	N/A
+AL4G23730	scaffold_4_RagTag	91.810	232	14	3	875	1106	13775109	13774883	3.12e-85	318	N/A
+AL4G23730	scaffold_4_RagTag	84.190	253	28	5	564	804	13775415	13775163	3.23e-60	235	N/A
+AL4G23730	scaffold_4_RagTag	100.000	33	0	0	237	269	13691236	13691268	5.80e-08	62.1	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23850
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 16 hits found
+AL4G23850	scaffold_4_RagTag	96.609	1268	27	2	1	1262	13749052	13750309	0.0	2089	N/A
+AL4G23850	scaffold_4_RagTag	82.401	1091	124	53	94	1138	13774813	13775881	0.0	889	N/A
+AL4G23850	scaffold_4_RagTag	78.002	991	156	42	176	1132	13792141	13793103	9.33e-160	566	N/A
+AL4G23850	scaffold_4_RagTag	76.572	986	189	31	174	1132	13789978	13790948	7.42e-141	503	N/A
+AL4G23850	scaffold_4_RagTag	90.726	248	16	6	164	405	13687106	13686860	6.20e-87	324	N/A
+AL4G23850	scaffold_4_RagTag	88.028	142	17	0	1011	1152	13748052	13748193	3.08e-40	169	N/A
+AL4G23850	scaffold_4_RagTag	88.194	144	13	4	1011	1152	13772557	13772698	3.08e-40	169	N/A
+AL4G23850	scaffold_4_RagTag	88.112	143	13	4	1011	1151	13763830	13763970	1.11e-39	167	N/A
+AL4G23850	scaffold_4_RagTag	84.848	165	24	1	1015	1178	13757351	13757515	3.98e-39	165	N/A
+AL4G23850	scaffold_4_RagTag	84.848	165	22	1	1011	1172	13761189	13761353	1.43e-38	163	N/A
+AL4G23850	scaffold_4_RagTag	86.429	140	19	0	1014	1153	14676409	14676270	8.61e-36	154	N/A
+AL4G23850	scaffold_4_RagTag	86.331	139	19	0	1014	1152	14684466	14684328	3.10e-35	152	N/A
+AL4G23850	scaffold_4_RagTag	94.286	70	3	1	3	71	13753393	13753462	2.45e-21	106	N/A
+AL4G23850	scaffold_4_RagTag	87.059	85	9	2	5	88	13751726	13751809	5.29e-18	95.3	N/A
+AL4G23850	scaffold_4_RagTag	90.141	71	7	0	18	88	13755906	13755976	1.90e-17	93.5	N/A
+AL4G23850	scaffold_4_RagTag	84.444	90	9	4	3	88	13747050	13747138	1.15e-14	84.2	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23910
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 11 hits found
+AL4G23910	scaffold_4_RagTag	97.545	1833	16	3	602	2416	13774174	13775995	0.0	3109	N/A
+AL4G23910	scaffold_4_RagTag	97.651	596	6	2	1	596	13773403	13773990	0.0	1016	N/A
+AL4G23910	scaffold_4_RagTag	81.036	1081	144	40	1242	2302	13749146	13750185	0.0	804	N/A
+AL4G23910	scaffold_4_RagTag	78.333	1020	167	45	1316	2313	13789977	13790964	8.22e-173	610	N/A
+AL4G23910	scaffold_4_RagTag	78.501	1014	140	45	1312	2295	13792135	13793100	8.28e-168	593	N/A
+AL4G23910	scaffold_4_RagTag	77.626	1028	161	49	1319	2302	13687093	13686091	8.40e-158	560	N/A
+AL4G23910	scaffold_4_RagTag	90.708	226	17	2	1316	1537	13692111	13691886	7.27e-79	298	N/A
+AL4G23910	scaffold_4_RagTag	85.345	116	17	0	2184	2299	14676404	14676289	1.69e-25	121	N/A
+AL4G23910	scaffold_4_RagTag	85.345	116	17	0	2184	2299	14684461	14684346	1.69e-25	121	N/A
+AL4G23910	scaffold_4_RagTag	83.761	117	17	2	2184	2299	13748060	13748175	3.66e-22	110	N/A
+AL4G23910	scaffold_4_RagTag	84.375	96	15	0	2182	2277	13757353	13757448	1.02e-17	95.3	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23920
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL4G23920	scaffold_4_RagTag	96.294	1619	39	10	442	2041	13789452	13791068	0.0	2638	N/A
+AL4G23920	scaffold_4_RagTag	78.335	1297	177	67	687	1923	13687345	13686093	0.0	743	N/A
+AL4G23920	scaffold_4_RagTag	98.922	371	4	0	1	371	13777362	13777732	0.0	664	N/A
+AL4G23920	scaffold_4_RagTag	77.419	1023	163	50	964	1936	13774888	13775892	5.55e-154	547	N/A
+AL4G23920	scaffold_4_RagTag	80.218	551	76	26	654	1185	13791823	13792359	1.66e-104	383	N/A
+AL4G23920	scaffold_4_RagTag	89.140	221	24	0	965	1185	13749225	13749445	2.89e-72	276	N/A
+AL4G23920	scaffold_4_RagTag	92.857	98	4	3	224	318	13687973	13687876	3.96e-31	139	N/A
+AL4G23920	scaffold_4_RagTag	94.318	88	1	1	366	449	13788793	13788880	6.62e-29	132	N/A
+# BLASTN 2.12.0+
+# Query: AL4G23930
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 9 hits found
+AL4G23930	scaffold_4_RagTag	97.388	1455	18	8	1	1445	13791827	13793271	0.0	2459	N/A
+AL4G23930	scaffold_4_RagTag	77.974	1017	155	50	309	1282	13774884	13775874	6.40e-162	573	N/A
+AL4G23930	scaffold_4_RagTag	83.840	526	49	20	28	553	13687348	13686859	3.11e-130	468	N/A
+AL4G23930	scaffold_4_RagTag	81.143	525	77	17	20	533	13789685	13790198	3.20e-110	401	N/A
+AL4G23930	scaffold_4_RagTag	75.827	695	134	27	615	1288	13790270	13790951	2.56e-86	322	N/A
+AL4G23930	scaffold_4_RagTag	90.435	230	18	3	311	536	13692112	13691883	1.20e-79	300	N/A
+AL4G23930	scaffold_4_RagTag	83.889	180	23	6	1109	1285	13750003	13750179	1.27e-39	167	N/A
+AL4G23930	scaffold_4_RagTag	85.833	120	15	2	1167	1285	13772560	13772678	2.15e-27	126	N/A
+AL4G23930	scaffold_4_RagTag	85.000	120	16	2	1167	1285	13763833	13763951	1.00e-25	121	N/A
+# BLASTN 2.12.0+
+# Query: AL6G16010
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 2 hits found
+AL6G16010	scaffold_6_RagTag	97.479	1944	17	9	1	1925	2532484	2534414	0.0	3290	N/A
+AL6G16010	scaffold_3_RagTag	97.619	42	1	0	1766	1807	1120792	1120751	3.81e-11	73.1	N/A
+# BLASTN 2.12.0+
+# Query: AL84U10010
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE11_v2.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL84U10010	scaffold_4_RagTag	95.059	850	20	15	1238	2075	13733121	13732282	0.0	1317	N/A
+AL84U10010	scaffold_4_RagTag	98.093	734	14	0	1	734	13734208	13733475	0.0	1279	N/A
+AL84U10010	scaffold_4_RagTag	84.211	171	8	6	2100	2268	13732299	13732146	7.31e-34	148	N/A
+# BLAST processed 11 queries

@@ -1,0 +1,72 @@
+# BLASTN 2.12.0+
+# Query: AL1G37820
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL1G37820	scaffold_1_RagTag:0-28294041	94.084	2079	75	17	1	2034	10555535	10557610	0.0	3114	N/A
+AL1G37820	scaffold_1_RagTag:0-28294041	79.922	513	82	13	1530	2025	10558786	10559294	1.19e-96	357	N/A
+AL1G37820	scaffold_1_RagTag:0-28294041	87.719	114	5	4	912	1025	10556532	10556636	1.31e-26	124	N/A
+AL1G37820	scaffold_1_RagTag:0-28294041	86.842	114	6	4	981	1085	10556463	10556576	6.09e-25	119	N/A
+AL1G37820	scaffold_1_RagTag:0-28294041	86.170	94	11	2	2121	2213	10659099	10659191	2.21e-19	100	N/A
+AL1G37820	scaffold_1_RagTag:0-28294041	80.556	108	5	10	2169	2269	10560102	10560200	6.22e-10	69.4	N/A
+# BLASTN 2.12.0+
+# Query: AL1G37850
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL1G37850	scaffold_1_RagTag:0-28294041	94.348	2070	81	21	7	2054	10555667	10557722	0.0	3142	N/A
+AL1G37850	scaffold_1_RagTag:0-28294041	80.702	285	24	17	2054	2311	10557756	10558036	4.76e-47	193	N/A
+AL1G37850	scaffold_1_RagTag:0-28294041	87.719	114	5	4	803	916	10556532	10556636	1.76e-26	124	N/A
+AL1G37850	scaffold_1_RagTag:0-28294041	86.842	114	6	4	872	976	10556463	10556576	8.19e-25	119	N/A
+AL1G37850	scaffold_8_RagTag:0-21093757	84.354	147	16	4	3008	3148	16063083	16063228	2.26e-30	137	N/A
+AL1G37850	scaffold_2_RagTag:0-21425966	88.596	114	5	4	3018	3124	12599864	12599976	1.05e-28	132	N/A
+AL1G37850	scaffold_5_RagTag:0-21731985	84.733	131	12	7	3016	3139	10361646	10361517	1.76e-26	124	N/A
+AL1G37850	scaffold_4_RagTag:18000-22695972	78.641	206	25	6	3193	3380	15611759	15611963	8.19e-25	119	N/A
+# BLASTN 2.12.0+
+# Query: AL1G38110
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL1G38110	scaffold_4_RagTag:18000-22695972	84.584	493	53	10	50	524	10997310	10997797	2.64e-130	468	N/A
+AL1G38110	scaffold_4_RagTag:18000-22695972	82.167	443	43	23	87	524	1437790	1437379	3.59e-94	348	N/A
+AL1G38110	scaffold_4_RagTag:18000-22695972	74.922	642	110	33	678	1303	1430021	1429415	1.35e-63	246	N/A
+AL1G38110	scaffold_4_RagTag:18000-22695972	96.296	54	2	0	2	55	10997165	10997218	2.40e-16	89.8	N/A
+AL1G38110	scaffold_1_RagTag:0-28294041	81.941	443	44	23	87	524	17065275	17064864	1.67e-92	342	N/A
+AL1G38110	scaffold_1_RagTag:0-28294041	81.432	447	44	24	87	524	10644196	10644612	1.30e-88	329	N/A
+AL1G38110	scaffold_1_RagTag:0-28294041	73.512	336	70	18	949	1278	10639073	10639395	1.84e-22	110	N/A
+# BLASTN 2.12.0+
+# Query: AL1G38130
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL1G38130	scaffold_1_RagTag:0-28294041	90.244	164	8	2	34	189	10658169	10658332	4.86e-52	207	N/A
+AL1G38130	scaffold_1_RagTag:0-28294041	80.272	147	23	6	641	784	10639068	10639211	1.83e-21	106	N/A
+AL1G38130	scaffold_4_RagTag:18000-22695972	75.170	294	51	10	641	931	1429758	1429484	2.34e-25	119	N/A
+# BLASTN 2.12.0+
+# Query: AL3G41480
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL3G41480	scaffold_1_RagTag:0-28294041	78.125	384	53	16	362	725	17061803	17062175	3.39e-54	215	N/A
+AL3G41480	scaffold_1_RagTag:0-28294041	77.807	383	56	19	362	725	10647218	10646846	1.58e-52	209	N/A
+AL3G41480	scaffold_1_RagTag:0-28294041	74.320	331	58	17	409	734	10557398	10557090	3.54e-24	115	N/A
+AL3G41480	scaffold_4_RagTag:18000-22695972	78.100	379	52	16	362	720	1434272	1434639	4.38e-53	211	N/A
+# BLASTN 2.12.0+
+# Query: AL3G41490
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL3G41490	scaffold_1_RagTag:0-28294041	76.682	223	41	8	362	581	10647218	10647004	7.24e-24	113	N/A
+AL3G41490	scaffold_1_RagTag:0-28294041	75.330	227	44	7	362	585	17061803	17062020	2.03e-19	99.0	N/A
+AL3G41490	scaffold_1_RagTag:0-28294041	79.137	139	24	5	409	546	10557398	10557264	3.39e-17	91.6	N/A
+AL3G41490	scaffold_4_RagTag:18000-22695972	75.330	227	44	7	362	585	1434272	1434489	2.03e-19	99.0	N/A
+# BLASTN 2.12.0+
+# Query: AL3G41560
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL3G41560	scaffold_1_RagTag:0-28294041	78.125	384	53	16	402	765	17062175	17061803	3.18e-54	215	N/A
+AL3G41560	scaffold_1_RagTag:0-28294041	77.807	383	56	19	402	765	10646846	10647218	1.48e-52	209	N/A
+AL3G41560	scaffold_1_RagTag:0-28294041	74.320	331	58	17	393	718	10557090	10557398	3.31e-24	115	N/A
+AL3G41560	scaffold_4_RagTag:18000-22695972	78.100	379	52	16	407	765	1434639	1434272	4.11e-53	211	N/A
+# BLAST processed 7 queries

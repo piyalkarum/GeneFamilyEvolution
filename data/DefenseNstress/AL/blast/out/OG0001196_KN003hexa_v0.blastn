@@ -1,0 +1,31 @@
+# BLASTN 2.12.0+
+# Query: AL4G42570
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 2 hits found
+AL4G42570	scaffold_4_RagTag	92.803	792	48	3	1	786	22473404	22474192	0.0	1138	N/A
+AL4G42570	scaffold_4_RagTag	84.848	66	9	1	231	296	22482401	22482465	2.42e-09	65.8	N/A
+# BLASTN 2.12.0+
+# Query: AL4G42610
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 18 hits found
+AL4G42610	scaffold_4_RagTag	97.561	492	1	1	141	632	22486512	22486992	0.0	832	N/A
+AL4G42610	scaffold_4_RagTag	99.123	114	1	0	35	148	22485963	22486076	1.09e-51	206	N/A
+AL4G42610	scaffold_4_RagTag	95.000	40	2	0	87	126	22482399	22482438	6.94e-09	63.9	N/A
+AL4G42610	scaffold_5_RagTag	100.000	34	0	0	1	34	19217444	19217477	6.94e-09	63.9	N/A
+AL4G42610	scaffold_5_RagTag	97.222	36	0	1	3	38	2356312	2356278	8.97e-08	60.2	N/A
+AL4G42610	scaffold_5_RagTag	92.857	42	1	1	3	44	2574367	2574328	8.97e-08	60.2	N/A
+AL4G42610	scaffold_5_RagTag	100.000	32	0	0	3	34	11756502	11756533	8.97e-08	60.2	N/A
+AL4G42610	scaffold_5_RagTag	100.000	32	0	0	3	34	20422183	20422214	8.97e-08	60.2	N/A
+AL4G42610	scaffold_7_RagTag	100.000	33	0	0	3	35	4290952	4290920	2.49e-08	62.1	N/A
+AL4G42610	scaffold_7_RagTag	94.872	39	2	0	3	41	4963116	4963154	2.49e-08	62.1	N/A
+AL4G42610	scaffold_6_RagTag	100.000	33	0	0	3	35	8895342	8895310	2.49e-08	62.1	N/A
+AL4G42610	scaffold_6_RagTag	100.000	32	0	0	3	34	5020074	5020105	8.97e-08	60.2	N/A
+AL4G42610	scaffold_6_RagTag	100.000	32	0	0	3	34	6711727	6711696	8.97e-08	60.2	N/A
+AL4G42610	scaffold_6_RagTag	100.000	32	0	0	3	34	22579409	22579378	8.97e-08	60.2	N/A
+AL4G42610	scaffold_8_RagTag	100.000	32	0	0	3	34	17756374	17756405	8.97e-08	60.2	N/A
+AL4G42610	scaffold_3_RagTag	100.000	32	0	0	3	34	7696058	7696089	8.97e-08	60.2	N/A
+AL4G42610	scaffold_3_RagTag	100.000	32	0	0	3	34	8343691	8343660	8.97e-08	60.2	N/A
+AL4G42610	scaffold_2_RagTag	100.000	32	0	0	3	34	449562	449531	8.97e-08	60.2	N/A
+# BLAST processed 2 queries

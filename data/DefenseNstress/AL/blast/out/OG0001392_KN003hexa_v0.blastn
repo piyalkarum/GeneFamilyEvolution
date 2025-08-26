@@ -1,0 +1,142 @@
+# BLASTN 2.12.0+
+# Query: AL6G30000
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 14 hits found
+AL6G30000	scaffold_6_RagTag	99.692	3902	11	1	1	3902	7643211	7647111	0.0	7138	N/A
+AL6G30000	scaffold_6_RagTag	82.000	1450	203	28	2150	3571	7651200	7652619	0.0	1179	N/A
+AL6G30000	scaffold_6_RagTag	88.179	736	80	6	2913	3646	7653755	7654485	0.0	870	N/A
+AL6G30000	scaffold_6_RagTag	81.307	872	153	9	2475	3338	7648453	7649322	0.0	699	N/A
+AL6G30000	scaffold_6_RagTag	79.863	874	160	14	2476	3338	7667868	7668736	4.53e-177	625	N/A
+AL6G30000	scaffold_6_RagTag	79.176	874	168	11	2475	3338	7663874	7664743	1.28e-167	593	N/A
+AL6G30000	scaffold_6_RagTag	82.003	739	94	18	2151	2865	7656465	7657188	4.60e-167	592	N/A
+AL6G30000	scaffold_6_RagTag	82.205	635	105	6	2475	3102	7660736	7661369	1.69e-151	540	N/A
+AL6G30000	scaffold_6_RagTag	76.395	466	65	14	876	1329	7659959	7660391	5.41e-52	209	N/A
+AL6G30000	scaffold_6_RagTag	82.759	232	36	4	1332	1561	7659905	7660134	2.52e-50	204	N/A
+AL6G30000	scaffold_6_RagTag	82.906	234	32	8	1332	1561	7663055	7663284	2.52e-50	204	N/A
+AL6G30000	scaffold_6_RagTag	86.310	168	13	9	3695	3860	7658100	7658259	1.97e-41	174	N/A
+AL6G30000	scaffold_6_RagTag	78.000	200	31	7	3146	3343	7658471	7658659	4.36e-23	113	N/A
+AL6G30000	scaffold_6_RagTag	100.000	34	0	0	3891	3924	7647127	7647160	4.46e-08	63.9	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30010
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 11 hits found
+AL6G30010	scaffold_6_RagTag	99.328	2531	11	3	1	2525	7647347	7649877	0.0	4575	N/A
+AL6G30010	scaffold_6_RagTag	88.259	1252	140	5	740	1986	7667500	7668749	0.0	1491	N/A
+AL6G30010	scaffold_6_RagTag	87.137	1275	151	9	740	2006	7663507	7664776	0.0	1434	N/A
+AL6G30010	scaffold_6_RagTag	89.139	1022	87	4	740	1737	7660348	7661369	0.0	1251	N/A
+AL6G30010	scaffold_6_RagTag	81.078	872	155	9	1104	1973	7645685	7646548	0.0	688	N/A
+AL6G30010	scaffold_6_RagTag	80.666	931	133	22	562	1485	7656289	7657179	0.0	678	N/A
+AL6G30010	scaffold_6_RagTag	87.609	573	68	1	501	1070	7650961	7651533	0.0	662	N/A
+AL6G30010	scaffold_6_RagTag	80.774	801	141	8	1101	1890	7651528	7652326	6.29e-174	614	N/A
+AL6G30010	scaffold_6_RagTag	79.821	223	39	4	775	992	7641345	7641566	1.27e-36	158	N/A
+AL6G30010	scaffold_6_RagTag	95.082	61	3	0	190	250	7650589	7650649	2.82e-18	97.1	N/A
+AL6G30010	scaffold_6_RagTag	90.141	71	6	1	2425	2495	7661987	7662056	1.31e-16	91.6	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30020
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 13 hits found
+AL6G30020	scaffold_6_RagTag	99.657	2038	5	2	229	2264	7650731	7652768	0.0	3723	N/A
+AL6G30020	scaffold_6_RagTag	82.000	1450	203	28	696	2115	7645360	7646781	0.0	1179	N/A
+AL6G30020	scaffold_6_RagTag	84.332	951	119	13	518	1453	7656289	7657224	0.0	904	N/A
+AL6G30020	scaffold_6_RagTag	88.133	573	68	0	457	1029	7647847	7648419	0.0	682	N/A
+AL6G30020	scaffold_6_RagTag	80.750	800	143	6	1024	1822	7648450	7649239	5.63e-174	614	N/A
+AL6G30020	scaffold_6_RagTag	79.143	863	162	12	1049	1908	7667889	7668736	5.71e-164	580	N/A
+AL6G30020	scaffold_6_RagTag	78.491	888	173	10	1024	1908	7663871	7664743	1.60e-159	566	N/A
+AL6G30020	scaffold_6_RagTag	81.019	648	110	7	1024	1669	7660733	7661369	1.27e-140	503	N/A
+AL6G30020	scaffold_6_RagTag	89.157	332	36	0	696	1027	7660348	7660679	6.13e-114	414	N/A
+AL6G30020	scaffold_6_RagTag	88.024	334	40	0	696	1029	7663507	7663840	2.22e-108	396	N/A
+AL6G30020	scaffold_6_RagTag	99.010	202	2	0	1	202	7650532	7650733	2.25e-98	363	N/A
+AL6G30020	scaffold_6_RagTag	85.196	331	49	0	696	1026	7667500	7667830	1.06e-91	340	N/A
+AL6G30020	scaffold_6_RagTag	81.166	223	39	3	731	951	7641345	7641566	3.15e-42	176	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30030
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL6G30030	scaffold_6_RagTag	98.919	1573	4	1	1	1573	7653149	7654708	0.0	2798	N/A
+AL6G30030	scaffold_6_RagTag	88.043	736	81	6	620	1350	7646123	7646856	0.0	865	N/A
+AL6G30030	scaffold_6_RagTag	79.533	728	101	33	860	1573	7657552	7658245	1.92e-132	475	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30040
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 25 hits found
+AL6G30040	scaffold_6_RagTag	99.044	3558	11	2	1	3552	7655880	7659420	0.0	6360	N/A
+AL6G30040	scaffold_6_RagTag	84.332	951	119	13	410	1345	7651022	7651957	0.0	904	N/A
+AL6G30040	scaffold_6_RagTag	80.988	931	133	20	410	1300	7647908	7648834	0.0	699	N/A
+AL6G30040	scaffold_6_RagTag	82.003	739	94	18	586	1309	7645361	7646075	4.16e-167	592	N/A
+AL6G30040	scaffold_6_RagTag	81.991	683	94	18	580	1237	7663502	7664180	1.96e-155	553	N/A
+AL6G30040	scaffold_6_RagTag	79.567	739	101	35	1673	2376	7653995	7654718	2.61e-134	483	N/A
+AL6G30040	scaffold_6_RagTag	87.619	315	36	2	580	894	7660343	7660654	3.55e-98	363	N/A
+AL6G30040	scaffold_6_RagTag	82.540	378	52	6	936	1300	7660741	7661117	2.17e-85	320	N/A
+AL6G30040	scaffold_6_RagTag	82.817	355	47	8	959	1300	7667895	7668248	6.07e-81	305	N/A
+AL6G30040	scaffold_6_RagTag	85.227	176	14	9	2789	2953	8082390	8082564	2.31e-40	171	N/A
+AL6G30040	scaffold_6_RagTag	85.119	168	15	9	2221	2380	7646905	7647070	3.86e-38	163	N/A
+AL6G30040	scaffold_6_RagTag	77.889	199	33	5	2592	2780	7646356	7646553	3.95e-23	113	N/A
+AL6G30040	scaffold_6_RagTag	100.000	35	0	0	3294	3328	7657995	7658029	1.12e-08	65.8	N/A
+AL6G30040	scaffold_6_RagTag	100.000	35	0	0	2116	2150	7659162	7659196	1.12e-08	65.8	N/A
+AL6G30040	scaffold_2_RagTag	93.213	221	8	5	2775	2989	1827334	1827553	7.79e-85	318	N/A
+AL6G30040	scaffold_4_RagTag	91.781	219	9	3	2783	2993	16306098	16305881	3.65e-78	296	N/A
+AL6G30040	scaffold_4_RagTag	86.598	97	7	4	2860	2953	23094396	23094303	8.54e-20	102	N/A
+AL6G30040	scaffold_3_RagTag	92.344	209	8	1	2791	2991	12647818	12647610	1.70e-76	291	N/A
+AL6G30040	scaffold_3_RagTag	90.498	221	12	2	2779	2991	25016901	25016682	2.84e-74	283	N/A
+AL6G30040	scaffold_3_RagTag	85.938	192	11	9	2817	2998	7909384	7909199	1.77e-46	191	N/A
+AL6G30040	scaffold_3_RagTag	84.492	187	19	7	2776	2953	4432131	4431946	4.96e-42	176	N/A
+AL6G30040	scaffold_3_RagTag	97.826	46	1	0	2779	2824	7911071	7911026	4.00e-13	80.5	N/A
+AL6G30040	scaffold_1_RagTag	90.625	224	12	2	2776	2991	3503755	3503977	6.11e-76	289	N/A
+AL6G30040	scaffold_1_RagTag	92.821	195	7	5	2804	2991	6089557	6089751	4.76e-72	276	N/A
+AL6G30040	scaffold_8_RagTag	84.706	170	11	6	2793	2962	19858324	19858170	6.47e-36	156	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30050
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 13 hits found
+AL6G30050	scaffold_6_RagTag	99.768	2588	6	0	1	2588	7659509	7662096	0.0	4747	N/A
+AL6G30050	scaffold_6_RagTag	87.226	1503	162	3	372	1865	7663030	7664511	0.0	1685	N/A
+AL6G30050	scaffold_6_RagTag	88.571	1120	104	5	743	1861	7667404	7668500	0.0	1338	N/A
+AL6G30050	scaffold_6_RagTag	89.551	1024	82	5	840	1861	7648086	7649086	0.0	1275	N/A
+AL6G30050	scaffold_6_RagTag	84.426	732	80	17	1874	2585	7668483	7669200	0.0	689	N/A
+AL6G30050	scaffold_6_RagTag	81.732	635	108	6	1228	1861	7645685	7646312	1.12e-146	523	N/A
+AL6G30050	scaffold_6_RagTag	80.650	646	116	4	1225	1861	7651528	7652173	3.15e-137	492	N/A
+AL6G30050	scaffold_6_RagTag	89.157	332	36	0	840	1171	7651200	7651531	7.02e-114	414	N/A
+AL6G30050	scaffold_6_RagTag	87.619	315	36	2	835	1146	7656459	7656773	2.58e-98	363	N/A
+AL6G30050	scaffold_6_RagTag	82.540	378	52	6	1233	1609	7656815	7657179	1.57e-85	320	N/A
+AL6G30050	scaffold_6_RagTag	76.395	466	65	14	451	883	7644086	7644539	3.56e-52	209	N/A
+AL6G30050	scaffold_6_RagTag	81.897	232	38	4	397	626	7644542	7644771	3.58e-47	193	N/A
+AL6G30050	scaffold_6_RagTag	87.324	71	8	1	2479	2548	7649777	7649847	2.91e-13	80.5	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30060
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 11 hits found
+AL6G30060	scaffold_6_RagTag	98.877	2583	12	3	1	2581	7662619	7665186	0.0	4593	N/A
+AL6G30060	scaffold_6_RagTag	87.747	1673	186	11	806	2462	7667404	7669073	0.0	1936	N/A
+AL6G30060	scaffold_6_RagTag	87.292	1503	159	4	426	1905	7659880	7661373	0.0	1688	N/A
+AL6G30060	scaffold_6_RagTag	87.069	1276	152	10	903	2171	7648086	7649355	0.0	1430	N/A
+AL6G30060	scaffold_6_RagTag	79.176	874	169	11	1268	2138	7645685	7646548	8.38e-168	593	N/A
+AL6G30060	scaffold_6_RagTag	78.153	888	177	9	1265	2138	7651528	7652412	1.84e-154	549	N/A
+AL6G30060	scaffold_6_RagTag	81.698	683	94	19	898	1574	7656459	7657116	1.11e-151	540	N/A
+AL6G30060	scaffold_6_RagTag	87.725	334	39	1	903	1234	7651200	7651533	4.24e-106	388	N/A
+AL6G30060	scaffold_6_RagTag	82.906	234	32	8	451	680	7644542	7644771	1.65e-50	204	N/A
+AL6G30060	scaffold_6_RagTag	81.532	222	39	2	938	1158	7641346	7641566	7.73e-44	182	N/A
+AL6G30060	scaffold_6_RagTag	81.507	146	27	0	2202	2347	7658933	7659078	1.71e-25	121	N/A
+# BLASTN 2.12.0+
+# Query: AL6G30070
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/KN003hexa_v0.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 11 hits found
+AL6G30070	scaffold_6_RagTag	99.703	2696	6	1	1	2694	7666508	7669203	0.0	4933	N/A
+AL6G30070	scaffold_6_RagTag	88.045	1673	180	12	897	2564	7663410	7665067	0.0	1964	N/A
+AL6G30070	scaffold_6_RagTag	88.428	1253	137	6	993	2240	7648086	7649335	0.0	1504	N/A
+AL6G30070	scaffold_6_RagTag	88.393	1120	106	5	897	1993	7660251	7661369	0.0	1327	N/A
+AL6G30070	scaffold_6_RagTag	84.153	732	80	18	1976	2691	7661382	7662093	0.0	676	N/A
+AL6G30070	scaffold_6_RagTag	79.543	875	159	17	1361	2227	7645686	7646548	1.12e-171	606	N/A
+AL6G30070	scaffold_6_RagTag	78.679	863	164	13	1382	2227	7651553	7652412	1.15e-156	556	N/A
+AL6G30070	scaffold_6_RagTag	85.498	331	48	0	993	1323	7651200	7651530	2.71e-93	346	N/A
+AL6G30070	scaffold_6_RagTag	83.099	355	46	8	1388	1741	7656838	7657179	9.87e-83	311	N/A
+AL6G30070	scaffold_6_RagTag	81.277	235	41	3	1016	1248	7641333	7641566	1.74e-45	187	N/A
+AL6G30070	scaffold_6_RagTag	77.091	275	49	13	2298	2565	7658929	7659196	2.95e-33	147	N/A
+# BLAST processed 8 queries

@@ -1,0 +1,53 @@
+# BLASTN 2.12.0+
+# Query: AL8G19400
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL8G19400	scaffold_8_RagTag	97.368	380	9	1	1	379	6381268	6381647	0.0	645	N/A
+AL8G19400	scaffold_8_RagTag	89.896	386	25	4	3	379	6387703	6388083	7.80e-136	484	N/A
+AL8G19400	scaffold_8_RagTag	81.183	372	51	13	1	361	6390978	6391341	1.10e-74	281	N/A
+AL8G19400	scaffold_8_RagTag	77.428	381	59	15	1	361	6412143	6412516	8.80e-51	202	N/A
+AL8G19400	scaffold_8_RagTag	77.428	381	59	15	1	361	6420922	6421295	8.80e-51	202	N/A
+AL8G19400	scaffold_8_RagTag	79.803	203	34	4	1	202	6379406	6379602	1.95e-32	141	N/A
+# BLASTN 2.12.0+
+# Query: AL8G19410
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL8G19410	scaffold_8_RagTag	97.895	380	7	1	1	379	6381268	6381647	0.0	656	N/A
+AL8G19410	scaffold_8_RagTag	90.415	386	23	4	3	379	6387703	6388083	3.60e-139	496	N/A
+AL8G19410	scaffold_8_RagTag	81.720	372	49	12	1	361	6390978	6391341	5.07e-78	292	N/A
+AL8G19410	scaffold_8_RagTag	77.953	381	57	15	1	361	6412143	6412516	4.06e-54	213	N/A
+AL8G19410	scaffold_8_RagTag	77.953	381	57	15	1	361	6420922	6421295	4.06e-54	213	N/A
+AL8G19410	scaffold_8_RagTag	81.281	203	31	3	1	202	6379406	6379602	1.93e-37	158	N/A
+# BLASTN 2.12.0+
+# Query: AL8G19420
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL8G19420	scaffold_8_RagTag	97.895	380	8	0	1	380	6381268	6381647	0.0	658	N/A
+AL8G19420	scaffold_8_RagTag	90.415	386	24	4	3	380	6387703	6388083	3.61e-139	496	N/A
+AL8G19420	scaffold_8_RagTag	81.452	372	51	11	1	362	6390978	6391341	6.58e-77	289	N/A
+# BLASTN 2.12.0+
+# Query: AL8G19430
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL8G19430	scaffold_8_RagTag	95.251	379	16	1	6	382	6387705	6388083	2.69e-170	599	N/A
+AL8G19430	scaffold_8_RagTag	91.969	386	21	3	1	382	6381268	6381647	2.77e-150	532	N/A
+AL8G19430	scaffold_8_RagTag	79.040	396	55	16	1	382	6390977	6391358	4.04e-64	246	N/A
+AL8G19430	scaffold_8_RagTag	77.202	386	55	18	1	364	6412142	6412516	1.48e-48	195	N/A
+AL8G19430	scaffold_8_RagTag	77.202	386	55	18	1	364	6420921	6421295	1.48e-48	195	N/A
+AL8G19430	scaffold_8_RagTag	81.951	205	29	5	1	203	6379405	6379603	3.24e-40	167	N/A
+# BLASTN 2.12.0+
+# Query: AL8G19452
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/NT8_v2_fix.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL8G19452	scaffold_8_RagTag	96.850	381	11	1	1	381	6381647	6381268	0.0	636	N/A
+AL8G19452	scaffold_8_RagTag	90.933	386	23	4	1	379	6388083	6387703	4.65e-143	508	N/A
+AL8G19452	scaffold_8_RagTag	80.563	391	56	13	1	381	6391358	6390978	3.07e-75	283	N/A
+AL8G19452	scaffold_8_RagTag	77.690	381	60	13	19	381	6412516	6412143	5.29e-53	209	N/A
+AL8G19452	scaffold_8_RagTag	77.690	381	60	13	19	381	6421295	6420922	5.29e-53	209	N/A
+AL8G19452	scaffold_8_RagTag	80.788	203	32	4	180	381	6379602	6379406	9.04e-36	152	N/A
+# BLAST processed 5 queries

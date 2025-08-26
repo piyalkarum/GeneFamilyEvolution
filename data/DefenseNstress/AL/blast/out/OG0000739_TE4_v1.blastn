@@ -1,0 +1,48 @@
+# BLASTN 2.12.0+
+# Query: AL1G65230
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE4_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 5 hits found
+AL1G65230	scaffold_2_RagTag:113346-24308598	100.000	159	0	0	1	159	8330598	8330440	5.34e-79	294	N/A
+AL1G65230	scaffold_2_RagTag:113346-24308598	91.824	159	13	0	1	159	5344817	5344659	2.56e-57	222	N/A
+AL1G65230	scaffold_2_RagTag:113346-24308598	93.197	147	10	0	13	159	5333829	5333683	1.19e-55	217	N/A
+AL1G65230	scaffold_2_RagTag:113346-24308598	93.197	147	10	0	13	159	5336934	5336788	1.19e-55	217	N/A
+AL1G65230	scaffold_2_RagTag:113346-24308598	94.326	141	8	0	19	159	5346610	5346470	1.19e-55	217	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18220
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE4_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL2G18220	scaffold_2_RagTag:113346-24308598	99.367	316	2	0	1	316	5341583	5341268	1.33e-162	573	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	96.519	316	11	0	1	316	5344894	5344579	1.36e-147	523	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	94.603	315	16	1	1	315	5333917	5333604	1.78e-136	486	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	88.679	318	30	2	2	316	8330674	8330360	2.40e-105	383	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	86.174	311	30	7	9	316	5346694	5346394	1.48e-87	324	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	91.845	233	15	3	84	316	5336940	5336712	5.31e-87	322	N/A
+AL2G18220	scaffold_2_RagTag:113346-24308598	82.109	313	43	7	9	316	5331578	5331274	5.46e-67	255	N/A
+AL2G18220	scaffold_4_RagTag:329527-26177039	91.798	317	24	2	1	316	12947463	12947148	1.40e-122	440	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18240
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE4_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL2G18240	scaffold_2_RagTag:113346-24308598	98.107	317	5	1	1	317	5333918	5333603	6.24e-156	551	N/A
+AL2G18240	scaffold_2_RagTag:113346-24308598	95.886	316	13	0	1	316	5341584	5341269	2.94e-144	512	N/A
+AL2G18240	scaffold_2_RagTag:113346-24308598	95.570	316	14	0	1	316	5344895	5344580	1.37e-142	507	N/A
+AL2G18240	scaffold_2_RagTag:113346-24308598	88.889	306	28	2	3	305	8330674	8330372	5.21e-102	372	N/A
+AL2G18240	scaffold_2_RagTag:113346-24308598	87.671	292	27	6	10	298	5346694	5346409	8.85e-90	331	N/A
+AL2G18240	scaffold_2_RagTag:113346-24308598	90.948	232	17	3	85	316	5336940	5336713	4.14e-83	309	N/A
+AL2G18240	scaffold_4_RagTag:329527-26177039	91.798	317	24	2	1	316	12947464	12947149	1.41e-122	440	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18250
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/TE4_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL2G18250	scaffold_2_RagTag:113346-24308598	98.734	316	4	0	1	316	5331593	5331278	2.87e-159	562	N/A
+AL2G18250	scaffold_2_RagTag:113346-24308598	84.106	302	38	7	4	298	5337024	5336726	2.50e-75	283	N/A
+AL2G18250	scaffold_2_RagTag:113346-24308598	83.495	309	42	5	4	304	5344898	5344591	3.24e-74	279	N/A
+AL2G18250	scaffold_2_RagTag:113346-24308598	82.085	307	46	5	6	304	5341585	5341280	1.96e-66	254	N/A
+AL2G18250	scaffold_2_RagTag:113346-24308598	82.155	297	46	4	16	305	8330667	8330371	9.13e-65	248	N/A
+AL2G18250	scaffold_2_RagTag:113346-24308598	86.550	171	22	1	146	316	5342622	5342453	2.02e-46	187	N/A
+AL2G18250	scaffold_4_RagTag:329527-26177039	86.667	225	29	1	81	304	12947384	12947160	9.13e-65	248	N/A
+# BLAST processed 4 queries

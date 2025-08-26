@@ -1,0 +1,49 @@
+# BLASTN 2.12.0+
+# Query: AL1G65230
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/F1-14.ragtag.scaffold_chr.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL1G65230	scaffold_2_RagTag	100.000	159	0	0	1	159	8871480	8871322	5.06e-79	294	N/A
+AL1G65230	scaffold_2_RagTag	92.453	159	12	0	1	159	6261973	6261815	5.21e-59	228	N/A
+AL1G65230	scaffold_2_RagTag	93.197	147	10	0	13	159	6257119	6256973	1.13e-55	217	N/A
+AL1G65230	scaffold_2_RagTag	93.617	141	9	0	19	159	6264161	6264021	5.24e-54	211	N/A
+AL1G65230	scaffold_4_RagTag	91.824	159	13	0	1	159	11048636	11048478	2.42e-57	222	N/A
+AL1G65230	scaffold_4_RagTag	91.824	159	13	0	1	159	11174601	11174443	2.42e-57	222	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18220
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/F1-14.ragtag.scaffold_chr.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 8 hits found
+AL2G18220	scaffold_2_RagTag	96.508	315	11	0	1	315	6254532	6254218	4.62e-147	521	N/A
+AL2G18220	scaffold_2_RagTag	95.570	316	14	0	1	316	6262050	6261735	1.29e-142	507	N/A
+AL2G18220	scaffold_2_RagTag	88.365	318	31	2	2	316	8871556	8871242	1.06e-103	377	N/A
+AL2G18220	scaffold_2_RagTag	86.495	311	29	7	9	316	6264245	6263945	3.00e-89	329	N/A
+AL2G18220	scaffold_2_RagTag	91.845	233	15	1	84	316	6257125	6256897	5.02e-87	322	N/A
+AL2G18220	scaffold_2_RagTag	82.748	313	41	7	9	316	6251705	6251401	2.39e-70	267	N/A
+AL2G18220	scaffold_4_RagTag	92.405	316	23	1	1	316	11048712	11048398	2.21e-125	449	N/A
+AL2G18220	scaffold_4_RagTag	92.405	316	23	1	1	316	11174677	11174363	2.21e-125	449	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18240
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/F1-14.ragtag.scaffold_chr.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL2G18240	scaffold_2_RagTag	98.107	317	6	0	1	317	6254533	6254217	1.64e-156	553	N/A
+AL2G18240	scaffold_2_RagTag	94.620	316	17	0	1	316	6262051	6261736	1.31e-137	490	N/A
+AL2G18240	scaffold_2_RagTag	88.562	306	29	2	3	305	8871556	8871254	2.30e-100	366	N/A
+AL2G18240	scaffold_2_RagTag	87.329	292	28	6	10	298	6264245	6263960	3.90e-88	326	N/A
+AL2G18240	scaffold_2_RagTag	92.991	214	15	0	85	298	6257125	6256912	3.03e-84	313	N/A
+AL2G18240	scaffold_4_RagTag	92.405	316	23	1	1	316	11048713	11048399	2.22e-125	449	N/A
+AL2G18240	scaffold_4_RagTag	92.405	316	23	1	1	316	11174678	11174364	2.22e-125	449	N/A
+# BLASTN 2.12.0+
+# Query: AL2G18250
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/F1-14.ragtag.scaffold_chr.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 7 hits found
+AL2G18250	scaffold_2_RagTag	99.367	316	2	0	1	316	6251720	6251405	1.26e-162	573	N/A
+AL2G18250	scaffold_2_RagTag	86.667	300	34	4	4	298	6264257	6263959	1.08e-88	327	N/A
+AL2G18250	scaffold_2_RagTag	84.333	300	41	4	4	298	6257209	6256911	5.10e-77	289	N/A
+AL2G18250	scaffold_2_RagTag	83.172	309	43	6	4	304	6262054	6261747	1.43e-72	274	N/A
+AL2G18250	scaffold_2_RagTag	82.492	297	45	4	16	305	8871549	8871253	1.86e-66	254	N/A
+AL2G18250	scaffold_4_RagTag	87.500	224	28	0	81	304	11048633	11048410	4.00e-68	259	N/A
+AL2G18250	scaffold_4_RagTag	87.500	224	28	0	81	304	11174598	11174375	4.00e-68	259	N/A
+# BLAST processed 4 queries

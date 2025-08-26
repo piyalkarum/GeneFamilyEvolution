@@ -1,0 +1,35 @@
+# BLASTN 2.12.0+
+# Query: AL7G34270
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/ALR.ragtag.scaffold_chr_15_1_24.masked.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 5 hits found
+AL7G34270	scaffold_7	94.577	3356	83	18	20	3306	10013988	10017313	0.0	5097	N/A
+AL7G34270	scaffold_7	87.779	671	47	17	16	658	10008868	10009531	0.0	752	N/A
+AL7G34270	scaffold_7	91.505	412	33	2	1145	1556	10009532	10009941	2.42e-159	566	N/A
+AL7G34270	scaffold_7	82.933	416	63	5	2562	2971	10021073	10021486	7.31e-100	368	N/A
+AL7G34270	scaffold_7	91.892	148	12	0	1418	1565	22272373	22272226	1.69e-51	207	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34280
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/ALR.ragtag.scaffold_chr_15_1_24.masked.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL7G34280	scaffold_7	96.439	1713	38	10	1	1696	10020058	10021764	0.0	2804	N/A
+AL7G34280	scaffold_7	80.478	753	129	16	56	798	10015744	10016488	5.72e-158	560	N/A
+AL7G34280	scaffold_7	82.701	422	69	4	1018	1437	10016544	10016963	2.88e-101	372	N/A
+# BLASTN 2.12.0+
+# Query: AL7G34290
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/ALR.ragtag.scaffold_chr_15_1_24.masked.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 11 hits found
+AL7G34290	scaffold_2	96.049	405	10	3	1611	2009	19606617	19607021	0.0	654	N/A
+AL7G34290	scaffold_2	94.673	413	12	3	1607	2009	8251616	8252028	1.67e-179	632	N/A
+AL7G34290	scaffold_2	94.089	406	15	3	1613	2010	6968171	6967767	2.82e-172	608	N/A
+AL7G34290	scaffold_6	95.035	423	7	6	1607	2017	28199246	28198826	0.0	652	N/A
+AL7G34290	scaffold_6	93.284	402	17	7	1613	2009	23426267	23426663	4.75e-165	584	N/A
+AL7G34290	scaffold_6	86.765	408	36	5	1613	2004	8803386	8803791	3.92e-121	438	N/A
+AL7G34290	scaffold_6	85.222	406	51	5	1612	2013	13145770	13146170	3.07e-112	409	N/A
+AL7G34290	scaffold_7	96.040	404	8	4	1613	2009	5213538	5213940	0.0	651	N/A
+AL7G34290	scaffold_7	94.377	409	12	4	1612	2010	4824843	4825250	4.69e-175	617	N/A
+AL7G34290	scaffold_7	76.923	403	88	5	1138	1538	10021073	10021472	1.19e-56	224	N/A
+AL7G34290	scaffold_1	88.537	410	36	4	1613	2012	20035907	20035499	1.38e-135	486	N/A
+# BLAST processed 3 queries

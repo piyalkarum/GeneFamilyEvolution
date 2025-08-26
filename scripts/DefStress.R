@@ -1093,13 +1093,13 @@ library(tidyr)
 
 te_classes <- c("DNA/Helitron","DNA/MULE-MuDR","LTR/Copia", "LTR/Gypsy", "SINE/tRNA", "SINE/unknown","LINE/L1", "LINE/unknown","LTR/Ty3", "LTR/unknown")
 
-du_rm_fl<-list.files("data/DefenseNstress/AL/cnv_within/dup_remd",full.names=T, pattern="_v5.txt")
-tm_out<-NULL
-for(j in seq_along(du_rm_fl)){
-  tm2<-read.table(du_rm_fl[j],h=T)
-  tm_out<-rbind(tm_out,tm2)
-}
-write.table(tm_out,"data/DefenseNstress/AL/cnv_within/all_DnS_blast_duprm_v5_joined.tsv",quote = F, row.names = F)
+# du_rm_fl<-list.files("data/DefenseNstress/AL/cnv_within/dup_remd",full.names=T, pattern="_v5.txt")
+# tm_out<-NULL
+# for(j in seq_along(du_rm_fl)){
+#   tm2<-read.table(du_rm_fl[j],h=T)
+#   tm_out<-rbind(tm_out,tm2)
+# }
+# write.table(tm_out,"data/DefenseNstress/AL/cnv_within/all_DnS_blast_duprm_v5_joined.tsv",quote = F, row.names = F)
 
 tm_out<-read.table("data/DefenseNstress/AL/cnv_within/all_DnS_blast_duprm_v5_joined.tsv",h=T)
 fls<-list.files("data/DefenseNstress/TE_profiling/RepeatMasker_results/AL",full.names=T, pattern = ".fa.out")
@@ -1151,6 +1151,7 @@ write.csv(sum_join,"data/DefenseNstress/TE_profiling/AL_DnS_genes_TE_overlap_sum
 
 #### Visualize TE -------
 library(ggplot2)
+te_classes <- c("DNA/Helitron","DNA/MULE-MuDR","LTR/Copia", "LTR/Gypsy", "SINE/tRNA", "SINE/unknown","LINE/L1", "LINE/unknown","LTR/Ty3", "LTR/unknown")
 ov_join<-read.csv("data/DefenseNstress/TE_profiling/AL_DnS_genes_TE_overlap_v5.csv")
 total_assemblies <- 21
 te_summary <- ov_join %>%
@@ -1611,3 +1612,128 @@ ggplot(pias_ratio, aes(x = gene_family, y = log2_ratio)) +
 
 # save pdf in 10 x 3.8 inch ratio
 
+
+
+
+## EXTRAS ------------------
+### combine TE barplots and donut plots from both species -------------
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(forcats)
+library(data.table)
+library(patchwork)
+
+# 1) one global, fixed class order
+te_classes <- c("DNA/Helitron","DNA/MULE-MuDR","LTR/Copia","LTR/Gypsy",
+                "SINE/tRNA","SINE/unknown","LINE/L1","LINE/unknown","LTR/unknown")
+
+# 2) one named palette used by BOTH plots
+# (any palette is fine, the key is the named mapping)
+pal <- setNames(scales::hue_pal()(length(te_classes)), te_classes)
+# e.g. alternative: pal <- setNames(RColorBrewer::brewer.pal(9, "Set3"), te_classes)
+
+# 3) load data
+ov_join_al <- read.csv("/Users/piyalkaru/Desktop/DDORF/Ann/general/family_discovery/TE_analysis/AL_DnS_genes_TE_overlap_v5.csv")
+ov_join_at <- read.csv("/Users/piyalkaru/Desktop/DDORF/Ann/general/family_discovery/TE_analysis/AT_DnS_genes_TE_overlap.csv")
+def_gene_ids <- data.table::fread("/Users/piyalkaru/Desktop/DDORF/Ann/general/family_discovery/defense_and_stress_fast_evol_families_gene_ids_4_species.txt", h = TRUE)
+
+# 4) normalize Ty3 → Gypsy and lock factor levels NOW (so both plots inherit the same levels)
+normalize_classes <- function(df) {
+  df$repeat_class[df$repeat_class == "LTR/Ty3"] <- "LTR/Gypsy"
+  df$repeat_class <- factor(df$repeat_class, levels = te_classes)
+  df
+}
+ov_join_al <- normalize_classes(ov_join_al)
+ov_join_at <- normalize_classes(ov_join_at)
+
+
+# summaries (as in your script)
+te_summary_al <- ov_join_al %>%
+  group_by(gene, repeat_class) %>%
+  summarise(assemblies = n_distinct(assembly), .groups = 'drop')
+
+te_genes <- te_summary_al$gene
+te_gene_families <- def_gene_ids[sapply(te_genes, function(x) { grep(x, def_gene_ids$Alyrata_v2.1.priTranscripts) }), c(1,5)]
+te_summary_al$family <- te_gene_families$Orthogroup
+
+te_summary_at <- ov_join_at %>%
+  group_by(gene, repeat_class) %>%
+  summarise(assemblies = n_distinct(assembly), .groups = 'drop')
+
+te_genes <- te_summary_at$gene
+te_gene_families <- def_gene_ids[sapply(te_genes, function(x) { grep(x, def_gene_ids$Athaliana_Araport11.priTranscripts) }), c(1,5)]
+te_summary_at$family <- te_gene_families$Orthogroup
+
+# percent within family
+prep_data <- function(df, species_label, all_families) {
+  df %>%
+    group_by(family, repeat_class) %>%
+    summarise(total_assemblies = sum(assemblies), .groups = "drop") %>%
+    complete(family = all_families,
+             repeat_class = factor(te_classes, levels = te_classes),
+             fill = list(total_assemblies = 0)) %>%
+    group_by(family) %>%
+    mutate(percent = 100 * total_assemblies / sum(total_assemblies)) %>%
+    ungroup() %>%
+    mutate(species = species_label)
+}
+
+all_families <- union(unique(te_summary_at$family), unique(te_summary_al$family))
+df_at <- prep_data(te_summary_at, "A. thaliana", all_families)
+df_al <- prep_data(te_summary_al, "A. lyrata",   all_families)
+
+combined <- bind_rows(df_at, df_al) %>%
+  mutate(percent = ifelse(species == "A. lyrata", -percent, percent)) %>%
+  mutate(family = fct_rev(fct_reorder(family, as.numeric(as.factor(family))))) %>%
+  mutate(repeat_class = factor(repeat_class, levels = te_classes))  # ensure factor carried through
+
+pdf("plots/AT_ALcombined_DnS_genes_TE_summary_barplot_v2.3.pdf", w = 9, h = 6)
+ggplot(combined, aes(x = family, y = percent, fill = repeat_class)) +
+  geom_col(position = "stack", width = 0.8) +
+  geom_hline(yintercept = 0, color = "black") +
+  coord_flip() +
+  scale_y_continuous(labels = abs) +
+  scale_fill_manual(values = pal, breaks = te_classes, drop = FALSE, name = "Repeat Class") +
+  theme_minimal() +
+  labs(
+    y = "Percentage of assemblies",
+    x = "Gene Family",
+    title = "TE Repeat Class Composition by Gene Family in Two Arabidopsis Species"
+  ) +
+  theme(
+    axis.text.y = element_text(size = 7),
+    legend.position = "bottom"
+  ) +
+  annotate("text", x = length(all_families) + 1, y = -80, label = "A. lyrata", hjust = 0, size = 4.5) +
+  annotate("text", x = length(all_families) + 1, y =  80, label = "A. thaliana", hjust = 1, size = 4.5)
+
+
+make_donut <- function(df, title_text) {
+  df %>%
+    mutate(repeat_class = factor(repeat_class, levels = te_classes)) %>%
+    count(repeat_class, name = "n") %>%
+    complete(repeat_class = factor(te_classes, levels = te_classes), fill = list(n = 0)) %>%
+    ggplot(aes(x = 2, y = n, fill = repeat_class)) +
+    geom_col(width = 1, color = "white") +
+    coord_polar(theta = "y") +
+    xlim(0.5, 2.5) +
+    theme_void() +
+    # correct label placement
+    geom_text(
+      data = function(d) d %>% mutate(pct = 100*n/sum(n)) %>% filter(n > 0),
+      aes(label = sprintf("%.1f%%", pct)),
+      position = position_stack(vjust = 0.5),
+      size = 3.5
+    ) +
+    scale_fill_manual(values = pal, breaks = te_classes, drop = FALSE, name = "Repeat Class") +
+    labs(title = title_text)
+}
+
+p_al <- make_donut(ov_join_al, "A. lyrata")
+p_at <- make_donut(ov_join_at, "A. thaliana")
+
+# Display; or save with ggsave("plots/AT_AL_donuts_v2.3.pdf", p_al + p_at, width=8, height=4)
+p_al + p_at + plot_layout(widths = c(1, 1))
+
+dev.off()

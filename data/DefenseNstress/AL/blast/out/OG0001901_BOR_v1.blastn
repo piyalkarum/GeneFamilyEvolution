@@ -1,0 +1,51 @@
+# BLASTN 2.12.0+
+# Query: AL1G59830
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL1G59830	scaffold_1_RagTag:0-28294041	91.555	2676	116	38	1	2630	25900445	25903056	0.0	3589	N/A
+AL1G59830	scaffold_1_RagTag:0-28294041	88.535	2259	127	52	1	2194	25881194	25883385	0.0	2615	N/A
+AL1G59830	scaffold_1_RagTag:0-28294041	94.144	444	18	7	2194	2633	25886298	25886737	0.0	669	N/A
+# BLASTN 2.12.0+
+# Query: AL1G59840
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 5 hits found
+AL1G59840	scaffold_1_RagTag:0-28294041	95.837	1033	11	6	1	1012	25918647	25919668	0.0	1640	N/A
+AL1G59840	scaffold_1_RagTag:0-28294041	98.538	342	5	0	1006	1347	25919954	25920295	1.94e-171	604	N/A
+AL1G59840	scaffold_1_RagTag:0-28294041	94.286	35	2	0	783	817	25919484	25919518	8.81e-06	54.7	N/A
+AL1G59840	scaffold_6_RagTag:0-24760478	82.407	108	17	1	1243	1348	20863826	20863933	1.87e-17	93.5	N/A
+AL1G59840	scaffold_6_RagTag:0-24760478	81.731	104	17	1	1243	1344	21085047	21084944	3.12e-15	86.1	N/A
+# BLASTN 2.12.0+
+# Query: AL6G45960
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 3 hits found
+AL6G45960	scaffold_6_RagTag:0-24760478	93.161	658	28	10	1	646	20863305	20863957	0.0	950	N/A
+AL6G45960	scaffold_6_RagTag:0-24760478	88.028	142	13	2	506	643	21085056	21084915	1.83e-39	165	N/A
+AL6G45960	scaffold_1_RagTag:0-28294041	82.883	111	17	1	515	625	25920191	25920299	1.88e-19	99.0	N/A
+# BLASTN 2.12.0+
+# Query: AL6G46350
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 6 hits found
+AL6G46350	scaffold_6_RagTag:0-24760478	97.749	622	2	2	1	610	21084881	21085502	0.0	1061	N/A
+AL6G46350	scaffold_6_RagTag:0-24760478	99.352	463	3	0	592	1054	21085842	21086304	0.0	839	N/A
+AL6G46350	scaffold_6_RagTag:0-24760478	91.129	124	8	3	55	175	20863940	20863817	3.19e-39	165	N/A
+AL6G46350	scaffold_6_RagTag:0-24760478	98.305	59	1	0	1051	1109	21086323	21086381	7.06e-21	104	N/A
+AL6G46350	scaffold_6_RagTag:0-24760478	84.810	79	8	4	923	1000	20863435	20863360	1.54e-12	76.8	N/A
+AL6G46350	scaffold_1_RagTag:0-28294041	81.250	112	19	1	55	166	25920300	25920191	1.98e-16	89.8	N/A
+# BLASTN 2.12.0+
+# Query: AL6G46470
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 2 hits found
+AL6G46470	scaffold_6_RagTag:0-24760478	97.019	738	11	7	1	731	21143469	21144202	0.0	1230	N/A
+AL6G46470	scaffold_6_RagTag:0-24760478	97.865	562	7	2	732	1292	21144250	21144807	0.0	966	N/A
+# BLASTN 2.12.0+
+# Query: AL8G22560
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/BOR_v1.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 1 hits found
+AL8G22560	scaffold_6_RagTag:0-24760478	99.254	268	2	0	1	268	21144592	21144325	4.85e-136	484	N/A
+# BLAST processed 6 queries

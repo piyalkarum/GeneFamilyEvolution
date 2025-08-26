@@ -1,0 +1,10 @@
+# BLASTN 2.12.0+
+# Query: AL4G38680
+# Database: User specified sequence set (Input: /home/pkaru/piyal/projects/CNVbra/DATA/genomes/Alyrata/fasta_only/all_assmbl/PU6_v3_fin.fa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject title
+# 4 hits found
+AL4G38680	scaffold_4	98.870	1150	11	1	1	1148	20309835	20310984	0.0	2050	N/A
+AL4G38680	scaffold_2	94.581	812	39	4	342	1148	876721	875910	0.0	1251	N/A
+AL4G38680	scaffold_6	94.949	693	31	3	457	1145	1597701	1598393	0.0	1083	N/A
+AL4G38680	scaffold_3	89.655	174	7	1	250	423	24387481	24387319	4.62e-53	211	N/A
+# BLAST processed 1 queries

@@ -10,6 +10,8 @@ This repository contains the analysis scripts, selected data, and output files a
 
 Copy number variation (CNV) is a major source of genomic diversity, shaping gene family evolution and contributing to adaptive differences. In this study, we investigated CNV across four Brassicaceae species (*Arabidopsis thaliana*, *A. lyrata*, *A. halleri*, and *Arabis alpina*) to identify gene families undergoing rapid expansion or contraction.
 
+![MCA of A. thaliana (non-corrected, Aug 19 2025)](plots/AT_MCA_noncorrected_aug19.25.png)
+
 Key findings include:
 
 - Identification of **231 rapidly evolving gene families** enriched in defense, stress response, metabolism, and genetic information processing.

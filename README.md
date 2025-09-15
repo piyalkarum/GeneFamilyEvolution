@@ -2,7 +2,7 @@
 
 This repository contains the analysis scripts, selected data, and output files associated with the manuscript:
 
-**"Copy number variation drives gene family evolution and ecological adaptation in Brassicaceae."**
+**"Copy Number Variation: A Substrate for Plant Adaptation and Stress Response in Arabidopsis"**
 
 ---
 

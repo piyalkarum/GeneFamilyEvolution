@@ -1,0 +1,232 @@
+index	Family.ID	short_title
+1	OG0001196	Jacalin lectin
+2	OG0000320	TN13 TIR-NLR receptor
+3	OG0000248	TIR domain protein
+4	OG0001132	NLR resistance protein
+5	OG0004872	Defensin-like peptide
+6	OG0001392	DnaJ chaperone
+7	OG0001901	Cysteine-rich peptide
+8	OG0002919	Thionin peptide
+9	OG0001202	RALF peptide
+10	OG0001927	Defense protein kinase
+11	OG0002370	Defensin-like peptide
+12	OG0000228	PR thionin protein
+13	OG0000266	TNL-WRKY immune receptor
+14	OG0000712	S1 self-incompatibility protein
+15	OG0000167	Autophagy protein
+16	OG0000534	Plant defensin
+17	OG0000210	RPP receptor-like protein
+18	OG0000692	S1 self-incompatibility protein
+19	OG0001688	Mannose-binding lectin
+20	OG0002883	Defensin-like peptide
+21	OG0000150	DOR F-box regulator
+22	OG0000739	Thionin peptide
+23	OG0000065	TIR-NLR receptor
+24	OG0000601	TIR-NLR receptor
+25	OG0000054	TIR-NLR RCC1-FYVE
+26	OG0000442	Thionin peptide
+27	OG0000024	CC-NLR receptor
+28	OG0000093	Cysteine-rich receptor kinase
+29	OG0000200	Leaf-shape QTL factor
+30	OG0000255	RPA1 ssDNA-binding
+31	OG0000367	RRM RNA-binding protein
+32	OG0000432	CCHC zinc knuckle
+33	OG0000452	CCHC zinc knuckle
+34	OG0001079	Reverse transcriptase
+35	OG0000453	Tudor-like protein
+36	OG0000589	RT zinc-binding protein
+37	OG0002178	RRM RNA-binding protein
+38	OG0000862	LTR retrotransposon Pol
+39	OG0003807	hAT transposase
+40	OG0000385	CCHC zinc knuckle
+41	OG0000095	MuDR/Mutator transposase
+42	OG0000242	RRM RNA-binding protein
+43	OG0000319	RRM RNA-binding protein
+44	OG0000448	OB-fold nucleic protein
+45	OG0000822	Gag-Pol retrotransposon
+46	OG0000205	CCHC zinc knuckle
+47	OG0000591	MUSTANG domesticated TE
+48	OG0000186	En/Spm transposase-like
+49	OG0000207	RRM RNA-binding protein
+50	OG0001139	RT / nucleotidyltransferase
+51	OG0001769	MEG embryo factor
+52	OG0000087	En/Spm transposase
+53	OG0000434	Mutator transposase DEK
+54	OG0000504	hAT dimerization MYM ZnF
+55	OG0000046	mTERF protein
+56	OG0000015	Non-LTR reverse transcriptase
+57	OG0000016	PPR/TPR repeat protein
+58	OG0000418	DUF295 organellar protein
+59	OG0000621	DUF1985 K-box protein
+60	OG0000720	Uncharacterized protein
+61	OG0000893	Uncharacterized DUF1985 protein
+62	OG0000929	Uncharacterized protein
+63	OG0001363	Uncharacterized protein
+64	OG0003691	Uncharacterized DUF674 protein
+65	OG0000224	Uncharacterized DUF1204 protein
+66	OG0001135	Uncharacterized protein
+67	OG0000075	Uncharacterized protein
+68	OG0001893	Uncharacterized protein
+69	OG0000045	Uncharacterized protein
+70	OG0000100	Uncharacterized protein
+71	OG0000503	Uncharacterized protein
+72	OG0001336	Sarcosine dehydrogenase-like
+73	OG0000445	Uncharacterized DUF1985 TM protein
+74	OG0000170	Uncharacterized protein
+75	OG0000276	Uncharacterized protein
+76	OG0001115	Uncharacterized protein
+77	OG0000206	Uncharacterized DUF577 protein
+78	OG0000040	DUF295 protein
+79	OG0000272	Terpene synthase
+80	OG0000375	RNase H-like enzyme
+81	OG0000725	Cysteine protease
+82	OG0000792	Phenolic malonyltransferase
+83	OG0000817	Cystatin inhibitor
+84	OG0000887	Subtilisin protease
+85	OG0001007	Cytochrome P450
+86	OG0001318	Alpha/beta hydrolase
+87	OG0000388	ATP-binding protein
+88	OG0004132	Serpin inhibitor
+89	OG0003680	Monocysteine thioredoxin
+90	OG0001412	N-myristoyltransferase
+91	OG0001411	NYN-domain nuclease
+92	OG0000168	RNase H-like enzyme
+93	OG0000044	DNA/RNA polymerase
+94	OG0000253	Kelch repeat oxidase
+95	OG0000724	RT/RNase H-like
+96	OG0001813	Kelch repeat oxidase
+97	OG0000254	Retroelement polymerase
+98	OG0001395	Serpin inhibitor
+99	OG0001408	HARBI1-like nuclease
+100	OG0001911	Cytochrome b561 reductase
+101	OG0002829	Nuclease
+102	OG0002893	Kelch repeat oxidase
+103	OG0003687	Cytochrome P450
+104	OG0003820	Cysteine protease
+105	OG0000192	Nuclease
+106	OG0001188	Glycoside hydrolase
+107	OG0000347	Plastocyanin-like protein
+108	OG0000598	RNase H protein
+109	OG0001401	Invertase/PMEI inhibitor
+110	OG0000386	"Beta-1,3-glucanase"
+111	OG0000549	GGPP synthase
+112	OG0000846	Pectin lyase
+113	OG0001400	Neprosin-like protease
+114	OG0002891	Beta-galactosidase
+115	OG0000299	Kelch repeat oxidase
+116	OG0000728	RNase H / thioredoxin
+117	OG0000761	Tryptophan biosynthesis protein
+118	OG0000164	CYP71 P450
+119	OG0000196	CYP72 P450
+120	OG0000213	RNase H-like enzyme
+121	OG0001885	Aminotransferase-like protein
+122	OG0000126	Rossmann enzyme (senescence)
+123	OG0000372	Cytochrome P450
+124	OG0000382	Kelch repeat oxidase
+125	OG0000297	Glycoside hydrolase
+126	OG0000298	MBOAT acyltransferase
+127	OG0000049	Subtilase protease
+128	OG0000261	Pectin lyase
+129	OG0000039	Glycosyltransferase
+130	OG0000090	Terpenoid cyclase/prenyltransferase
+131	OG0000118	Non-LTR reverse transcriptase
+132	OG0000030	Serine carboxypeptidase
+133	OG0000027	Cytochrome P450
+134	OG0000038	FRIGIDA-like flowering regulator
+135	OG0000158	TPR repeat protein
+136	OG0000338	F-box protein
+137	OG0000419	F-box/RNI protein
+138	OG0000865	RING/U-box E3 ligase
+139	OG0005764	F-box protein
+140	OG0002867	MATH/coiled-coil protein
+141	OG0004081	F-box protein
+142	OG0001923	F-box/RNI protein
+143	OG0003808	TPR repeat protein
+144	OG0004694	F-box protein
+145	OG0001918	F-box protein
+146	OG0003409	WRKY TF (II-c)
+147	OG0000159	WAK-like receptor kinase
+148	OG0000166	F-box/kelch DUF295
+149	OG0000258	Seed germination F-box
+150	OG0000857	LRR receptor kinase
+151	OG0000440	F-box protein
+152	OG0000501	F-box/FBD protein
+153	OG0000594	GCK-domain protein
+154	OG0001841	F-box protein
+155	OG0003730	F-box/Skp2-like LRR
+156	OG0003767	Imprinted F-box protein
+157	OG0004303	F-box protein
+158	OG0000339	F-box/FBD protein
+159	OG0000618	F-box/FBD protein
+160	OG0001262	EIN2-targeting F-box
+161	OG0000007	AGL MADS-box TF
+162	OG0000605	F-box ubiquitination factor
+163	OG0000606	F-box/FBD protein
+164	OG0001127	GRF zinc-finger TM protein
+165	OG0001929	TRAF-like protein
+166	OG0000217	F-box/LRR protein
+167	OG0000361	F-box protein
+168	OG0000422	C1 domain protein
+169	OG0000188	F-box protein
+170	OG0000513	F-box ubiquitination factor
+171	OG0000913	RING finger E3 ligase
+172	OG0001019	L-type lectin receptor kinase
+173	OG0001928	F-box protein
+174	OG0002892	NAC transcription factor
+175	OG0000182	KUK F-box protein
+176	OG0000185	Receptor-like kinase
+177	OG0000202	Receptor-like kinase
+178	OG0000962	B3 domain protein
+179	OG0000907	REM transcription factor
+180	OG0001136	F-box protein
+181	OG0000047	LRR receptor kinase
+182	OG0001349	F-box ubiquitination factor
+183	OG0000343	MYB/SANT protein
+184	OG0000402	PAH domain protein
+185	OG0000546	ATFDB F-box/kelch
+186	OG0001038	C1 domain protein
+187	OG0000731	F-box protein
+188	OG0000949	AGL MADS-box TF
+189	OG0001820	UV-B insensitive C1 protein
+190	OG0000106	Ubiquitin
+191	OG0000107	ATFDB F-box protein
+192	OG0000147	F-box/LRR protein
+193	OG0000271	UCH deubiquitinase
+194	OG0000510	Resistance C1 protein
+195	OG0000060	ULP SUMO protease
+196	OG0000142	SAUR auxin protein
+197	OG0000220	F-box DUF295 protein
+198	OG0000500	Ceramide synthase
+199	OG0000679	C1 domain protein
+200	OG0000029	F-box ubiquitination factor
+201	OG0000042	TRAF-type E3 ligase
+202	OG0000325	F-box protein
+203	OG0000473	C1 domain protein
+204	OG0000736	C1 domain protein
+205	OG0000269	C1 domain protein
+206	OG0000329	C1 domain protein
+207	OG0000022	Auxin-response F-box
+208	OG0000077	Stress-induced LRR kinase
+209	OG0000083	Ta11 non-LTR retroelement
+210	OG0000096	C1 domain protein
+211	OG0000012	TRAF-MATH deubiquitinase
+212	OG0000009	F-box/FBD protein
+213	OG0000199	ECA1 gametogenesis protein
+214	OG0000074	ECA1 gametogenesis protein
+215	OG0000086	Transmembrane protein
+216	OG0002564	DUF247 TM protein
+217	OG0001398	Transmembrane protein
+218	OG0000496	Callose synthase
+219	OG0000535	Dynamin-related protein
+220	OG0000639	CLV2-like receptor
+221	OG0000599	SRP-binding P-loop NTPase
+222	OG0002810	LRR family protein
+223	OG0000384	DUF1985 TM protease
+224	OG0000620	Receptor-like protein
+225	OG0000141	LRR receptor-like protein
+226	OG0002742	Amino acid transporter
+227	OG0000264	Extensin-like protein
+228	OG0000360	DUF1163 TM protein
+229	OG0000348	LRR receptor-like protein
+230	OG0000184	Receptor-like protein
+231	OG0000103	Ankyrin-repeat protein

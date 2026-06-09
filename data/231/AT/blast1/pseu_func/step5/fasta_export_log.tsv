@@ -1,0 +1,5 @@
+dataset	statuses_kept	records_written	missing_records	fasta_path
+U_only	U	80670	0	/home/pkaru/hpc-project/CNV/ANN/231/AT/blast1/pseu_func/step5/fastas/U_only.fasta
+U_plus_F	F,U	90410	0	/home/pkaru/hpc-project/CNV/ANN/231/AT/blast1/pseu_func/step5/fastas/U_plus_F.fasta
+excluding_P	A,F,U	100182	0	/home/pkaru/hpc-project/CNV/ANN/231/AT/blast1/pseu_func/step5/fastas/excluding_P.fasta
+all	A,F,P,U	172634	0	/home/pkaru/hpc-project/CNV/ANN/231/AT/blast1/pseu_func/step5/fastas/all.fasta

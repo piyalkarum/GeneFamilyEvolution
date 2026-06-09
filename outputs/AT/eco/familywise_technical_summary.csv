@@ -1,0 +1,4 @@
+"technical_var","n_tested","n_sig_p05","n_sig_fdr05","median_abs_effect","median_adj_r2"
+"busco_complete_pct",157,11,1,1.27645437127994,0.0343940437785979
+"contig_n50_mbp",157,11,0,0.0122097431858727,0.0401977328887411
+"total_length_mbp",157,13,0,0.016278219063108,0.0338830743178469

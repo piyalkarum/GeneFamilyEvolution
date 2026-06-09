@@ -1,0 +1,16 @@
+variable,class
+busco_complete_pct,technical
+contig_n50_mbp,technical
+total_length_mbp,technical
+cec_0_5cm,soil
+cec_5_15cm,soil
+pH_0_5cm,soil
+soc_5_15cm,soil
+bio3,climate
+bio4,climate
+bio8,climate
+bio10,climate
+bio13,climate
+bio15,climate
+bio18,climate
+te_int_frac,TE

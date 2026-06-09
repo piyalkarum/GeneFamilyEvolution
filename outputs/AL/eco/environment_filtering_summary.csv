@@ -1,0 +1,7 @@
+"step","n_variables","variables"
+"Initial variables",26,"bio1, bio2, bio3, bio4, bio5, bio6, bio7, bio8, bio9, bio10, bio11, bio12, bio13, bio14, bio15, bio16, bio17, bio18, bio19, cec_0.5cm_Q0.5_250m, cec_5.15cm_Q0.5_250m, phh2o_0.5cm_Q0.5_250m, phh2o_5.15cm_Q0.5_250m, soc_0.5cm_Q0.5_250m, soc_5.15cm_Q0.5_250m, te_int_frac"
+"Removed missingness > 0.25",0,""
+"Removed near-zero variance",0,""
+"Removed high correlation (|rho| > 0.8)",15,"bio11, bio6, bio1, bio17, bio15, bio9, bio14, bio4, bio10, bio19, bio12, phh2o_5.15cm_Q0.5_250m, bio16, cec_0.5cm_Q0.5_250m, bio13"
+"Removed by VIF > 6",1,"bio3"
+"Final retained variables",10,"soc_0.5cm_Q0.5_250m, soc_5.15cm_Q0.5_250m, cec_5.15cm_Q0.5_250m, phh2o_0.5cm_Q0.5_250m, bio2, bio5, bio7, bio8, bio18, te_int_frac"

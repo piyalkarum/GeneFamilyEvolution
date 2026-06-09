@@ -1,0 +1,7 @@
+"r2","adj_r2","model"
+0.123995109487699,-0.0243335909291268,"Raw: climate+soil | structure"
+0.324202546708674,-0.0220020168919054,"Z-score: climate+soil | structure"
+0.0481373173528183,-0.0470223572133659,"Raw: climate | soil+structure"
+0.207551008720962,0.0192539779575676,"Z-score: climate | soil+structure"
+0.0565193159284336,-0.0128047046050845,"Raw: soil | climate+structure"
+0.129673578496075,-0.0393615397299338,"Z-score: soil | climate+structure"

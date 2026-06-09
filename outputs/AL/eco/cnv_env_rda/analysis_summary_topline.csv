@@ -1,0 +1,7 @@
+"analysis","adj_r2","r2"
+"Raw: climate+soil | structure",-0.040594350136543,0.0996541364035564
+"Z-score: climate+soil | structure",-0.0013324784263693,0.295403365566299
+"Raw: climate | soil+structure",-0.0317205021558333,0.0613277805871514
+"Z-score: climate | soil+structure",0.0273595640342269,0.209616244770597
+"Raw: soil | climate+structure",-0.029065463812501,0.0321783428442908
+"Z-score: soil | climate+structure",-0.0194549301069815,0.100812238477418

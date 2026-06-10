@@ -45,18 +45,6 @@ Parses OrthoFinder2 output files to produce comparative genomics summary figures
 **`scripts/01_rapid_fams.R`**  
 Main pipeline script for CNV detection in both species. Extracts reference gene sequences from *A. thaliana* (TAIR10/Araport11) and *A. lyrata* (v2.1) for all 231 gene families, runs BLAST against each long-read assembly, filters and clusters BLAST hits, removes pseudo-duplicates (overlapping hits assigned to multiple genes), and produces gene family × assembly copy-number matrices. Also orchestrates the structural/functional classification pipeline for both species (calling Python scripts 01–06 below).
 
-**`scripts/01_build_copy_locus_db.py`**  
-Step 1 of the structural classification pipeline. Builds a master per-copy locus table linking each detected BLAST-based copy to its reference gene and the extracted sequence FASTA.
-
-**`scripts/02_align_copies_to_reference_checkpointed.py`**  
-Step 2. For each copy, aligns the extracted locus sequence against its matching reference gene on both strands using pairwise alignment, selects the better strand, and writes per-copy alignment metrics needed for structural classification.
-
-**`scripts/02b_extract_ref_CDS_v3.py`**  
-Helper for Step 3. Runs Helixer on reference gene FASTAs to predict and extract CDS sequences, which are used as the reference protein input for `exonerate` re-annotation.
-
-**`scripts/03_reannotate_and_structural_classify_v2.py`**  
-Step 3. Re-annotates each extracted locus using `exonerate` (protein2genome model), reconstructs the predicted CDS, and assigns an initial structural class: putatively pseudogenized (P), ambiguous (A), or structurally intact (U0), based on internal stop codons, frameshifts, and truncation.
-
 **`scripts/02_cnv_assmnt.R`**  
 CNV assessment across both species. Loads the gene family × assembly copy-number matrices, fits generalized linear mixed models (negative binomial; `glmmTMB`) to test for species differences in copy number, performs PCA under three complementary transformations (raw, within-species standardized, family-centered), and applies PERMANOVA and multivariate dispersion tests to assess species-level CNV structure.
 
@@ -80,6 +68,20 @@ Utility functions for RDA analyses: formula construction, permutation-based sign
 
 **`scripts/TE_helpers.R`**  
 Utility functions for TE analysis: parses RepeatMasker output files and filters to relevant TE classes.
+
+**`scripts/01_build_copy_locus_db.py`**  
+Step 1 of the structural classification pipeline. Builds a master per-copy locus table linking each detected BLAST-based copy to its reference gene and the extracted sequence FASTA.
+
+**`scripts/02_align_copies_to_reference_checkpointed.py`**  
+Step 2. For each copy, aligns the extracted locus sequence against its matching reference gene on both strands using pairwise alignment, selects the better strand, and writes per-copy alignment metrics needed for structural classification.
+
+**`scripts/02b_extract_ref_CDS_v3.py`**  
+Helper for Step 3. Runs Helixer on reference gene FASTAs to predict and extract CDS sequences, which are used as the reference protein input for `exonerate` re-annotation.
+
+**`scripts/03_reannotate_and_structural_classify_v2.py`**  
+Step 3. Re-annotates each extracted locus using `exonerate` (protein2genome model), reconstructs the predicted CDS, and assigns an initial structural class: putatively pseudogenized (P), ambiguous (A), or structurally intact (U0), based on internal stop codons, frameshifts, and truncation.
+
+
 
 ### Data, Outputs, and Plots
 
